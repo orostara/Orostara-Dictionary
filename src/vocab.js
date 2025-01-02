@@ -135,7 +135,7 @@ var vocab = [
     "soxen",
   ], //lesson 3
   [
-    "nis",
+    "riper",
     "armas",
     "hon",
     "kep",
@@ -443,7 +443,6 @@ var vocab = [
     "poh",
     "por",
     "poy",
-    "puran",
     "pus",
     "rah",
     "ram",
@@ -451,7 +450,6 @@ var vocab = [
     "ras",
     "res",
     "rikit",
-    "riper",
     "rit",
     "riy",
     "rok",

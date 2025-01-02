@@ -2,7 +2,7 @@ Orostara,AltSpellings,Type,Notes,Nouns,Verbs,Adjectives,Adverbs,Other,Category,C
 ah,,,,,,,,yeah,interjection,oth,,Orostara,am,,a,
 ahat,,basic,,,surround/engulf/include/involve,,,around/including,preposition,oth,,Arabic,أَحَاطَ,ʔaḥāṭa,/ʔa.ħaː.tˤa/,Arabic
 ahip,,basic,,,shake/shiver/tremble/vibrate/shudder,,,,,,,Portuguese,arrepio,,/ɐ.ʁɨˈpi.u/,Latin
-air,,basic,Mostly used only  as an honorific suffix,partner/spouse/girlfriend/boyfriend/datemate,,,,,,,,Mandarin Chinese,爱人,Àirén,/ˀaɪ̯⁵¹ ʐəɻ³⁵/,Proto-Sino
+ayr,air,basic,Mostly used only  as an honorific suffix,partner/spouse/girlfriend/boyfriend/datemate,,,,,,,,Mandarin Chinese,爱人,Àirén,/ˀaɪ̯⁵¹ ʐəɻ³⁵/,Proto-Sino
 ak,,basic,,front/chest/(temporally) last time/previously/already,,front,forwards/forward/ahead,(physically) in front of/next/beyond/ahead of/(temporally) before,direction/preposition,adv/oth,9,Hindi,आगे,aage,/ɑː.ɡeː/,Sanskrit
 Akaramur,,proper,'mur' added for clarity,Angola/Republic of Angola,,,,,country,,,Portuguese,Angola,,/ɐ̃ˈɡɔ.lɐ/,
 akarim,,,,noun,,,,,,,,Orostara,a karim,,,
@@ -472,8 +472,8 @@ nipat,,basic,,election,elect/vote,,,,,,,Marathi,निवडून,Nivaḍūna,,
 nipatasis,,,,democracy,,democratic,democratically,,,,,Orostara,nipat sis,,,
 nir,,basic,,length/meter/distance,extend/measure (length)/lengthen,long/distant/far,distantly,,measurement,,,Tamil,நீளம்,Nīḷam,/n̪iːɭɐm/,Unknown
 nirum,,,on Earth; physical; for Venus see 'nikas',class,,,,,,,,Orostara,niy rum,,,
-nis,,basic,,art/drawing/painting,draw/paint/craft,artistic,,,,,,Wu Chinese,艺术,gni-zeq,/n̠ʲi²² zəʔ⁴⁴/,Proto-Sino
-nisar,,,,artist,,,,,,,,Orostara,nis sar,art person,,
+nis,,,,,,,,unless/until,,,,Orostara,nah is,,,
+mekosar,,,,artist,,,,,,,,Orostara,mek sar,art person,,
 nit,,basic,all drinks are 'water' unless otherwise specified ,water,drink,watery/wet,,,food,,0,Telugu,నీటి,Nīṭi,/niːʈi/,Proto-Dravidian
 Niten,,proper,day of water; unclear etymology; might be based on Neptune and the ocean's waters; or just refreshing; only day off for a lot of us,Sunday ,,,,,week,,7,Orostara,nit ten,,,
 Nitox,,proper,inspired by the Chinese water god,Gonggong,,,,,space,,24,Orostara,nit hox,,,
@@ -507,7 +507,7 @@ okarim,,,,verb,,,,,,,,Orostara,o karim,,,
 omin,,,for general times; 'in the next ten minutes'; see 'pamin' for discrete times like 'ten minutes later',future minute,,,,,,,,Orostara,ot min,,,
 omon,,,for general times; 'in the next ten months'; see 'pamon' for discrete times like 'ten months later',future month,,,,,,,,Orostara,ot mon,,,
 on,,basic,if no noun after then assume common sense 'me' or 'you',possession/property,have/possess/own,possessive,possessively,of/from,economy,,,English,own,,/oʊn/,Proto-Germanic
-onak,,basic,,fungus/mushroom,,,,,nature/food,,,Spanish,hongo,,[ˈõŋ.ɡo],Latin
+onak,,basic,,fungus/mushroom,decompose/rot/decay/fester,,,,nature/food,,,Spanish,hongo,,[ˈõŋ.ɡo],Latin
 onien,,,for general times; 'in the next ten years'; see 'panien' for discrete times like 'ten years later',future year,,,,,,,,Orostara,ot nien,,,
 op,,basic,,opening/start/beginning/source/origin,open/turn on/start/begin,open/on,,from (as in from here to there)/since,preposition,oth,,English,open,,/ˈoʊ.pən/,Proto-Germanic
 opneh,,,,vowel,,,,,,,,Orostara,op neh,,,
@@ -633,7 +633,6 @@ pum,,basic,,paper,,,,,,,,Russian,бумага,bumaga,[bʊˈmaɡə],Ancient Greek
 pun,,basic,,part/piece/section/element/fraction/decimal/ratio,divide,,partly,per/for,preposition,oth,,Korean,분할,bunhal,[punɦa̠ɭ],Proto-Sino
 pur,,basic,,flower,,flowery,,,plant/nature,,,Hindi,फूल,phool,/pʰuːl/,Sanskrit
 purah,,basic,,jump,jump,,,,,,,Portuguese,pular,,[puˈla(h)],Latin
-puran,,basic,,decomposition,decompose/rot/decay/fester,,,,,,,Mandarin Chinese,腐烂,Fǔlàn,/fu²¹⁴⁻²¹ län⁵¹/,Proto-Sino
 puras,,basic,,chance/opportunity,,,,,,,,Arabic,فرصة,furṣa,/fur.sˤa/,Arabic
 pus,,basic,mainly used to differentiate between physical and virtual,reality/existence,exist,physical/real,physically,,,,,Japanese,物理,Butsuri-teki,[bɯ̟ᵝt͡sɨᵝɾʲi],Proto-Sino
 puset,,slang/swear,slang swear; more vulgar than 'xit'; can be used to call someone a bottom,hole/fuckhole/pussy/asshole/cunt,fuck,fucking,,,,,,Portuguese,boceta,,/buˈse.tɐ/,
