@@ -124,6 +124,7 @@ function readCSVFile() {
     //save info to persist between html pages
     localStorage.setItem("orosDict", JSON.stringify(orosDict));
     localStorage.setItem("basicOnly", JSON.stringify(basicOnly));
+    localStorage.setItem("dictVersion", dictVersion);
     document.getElementById("refreshIcon").classList.remove("fa-spin");
     document.getElementById("loading").style.display = "none";
     displayPage();

@@ -29,6 +29,10 @@ var needsDict = [
   "flashcards",
 ];
 
+//update if any structural changes are made to the excel file ie adding/moving columns
+//check against the dict stored in local storage to make sure having an old version doesn't break the website
+var dictVersion = "1";
+
 function load() {
   turnPagesOff();
   readCSVFile();
@@ -74,6 +78,10 @@ function load2(page) {
 }
 
 function loadStoredData() {
+  //dictionary is out of date and could break the website. reload
+  if (localStorage.getItem("dictVersion") != dictVersion) {
+    return false;
+  }
   var dataPresent = isJsonString(localStorage.getItem("orosDict"));
   if (dataPresent) {
     orosDict = JSON.parse(localStorage.getItem("orosDict"));
