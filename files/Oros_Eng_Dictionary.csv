@@ -199,7 +199,7 @@ ip,,basic,,cord/cable/wire/rope/string/thread,sew/knit/crochet,,,,textile,,,Turk
 ipit,,,,vine,,,,,plant/nature,,,Orostara,ip pit,rope plant,,
 ir,,basic,,alternative,switch/swap/alternate,alternate/other,instead,xor/either/or/else/instead of/(temporally) until,,,,Russian,или,ili,[ˈilʲɪ],Proto-Slavic
 Irakmur,,proper,'mur' added for clarity,Iraq/Republic of Iraq,,,,,country,,,Arabic,العراق,aleiraq,/al.ʕi.raːq/,
-iran,,basic,,advertisement/ad,advertise,,,,economy,,,Turkish,ilan,,/iːlan/,Proto-Turkic
+iran,,basic,,advertisement/ad/introduction/abstract,advertise,,,,economy,,,Turkish,ilan,,/iːlan/,Proto-Turkic
 Iranmur,,proper,'mur' added for clarity,Iran,,,,,country,,,Farsi,ایران,irun,[ʔiː.ɹɒ́ːn],
 is,,basic,,condition,,conditional/situational,,if,,,,Turkish,ise,,/ise/,Proto-Turkic
 isek,,,indicates a conditional timeframe or hypothetical; optional for 'if-then' statements; required for 'could' and 'should' statements,,,hypothetical,,,,,,Orostara,is sek,,,
@@ -260,7 +260,7 @@ ker,,basic,,game/sport,play a game,fun,,,,,,Hindi,खेल,khel,/kʰeːl/,Sansk
 kex,,basic,,hair/fur/feather/feathers,,hairy/furry,,,body,,10,Gujarati,કેશ,Kēśa,,Unknown
 kexet,,,,bonnet,,,,,,,,Orostara,kex et,,,
 key,,slang,hard to translate; starry eyed?; lovesick?; basically used for being lovingly obsessed with someone; puppy-like; not derogatory but a little demeaning sometimes,simp/sap,,gay,,,,,,English,gay,,,
-keytay,,,,generosity,,generous,generously,,,,,Orostara,key tay,,,
+postay,,,,generosity,,generous,generously,,,,,Orostara,key tay,,,
 ki,,,particle to indicate something is a question ,,,,,,,,,Orostara,kiy,,,
 kihes,,,for what reason; why did it happen,,,,why,,,,,Orostara,kiy hes,what reason,,
 kikon,,,,whatever/whichever,,,,,,,,Orostara,kiy kon ,what any,,
@@ -359,7 +359,7 @@ masek,,,,loner,,alone/solitary/lone,lonely,,,,,Orostara,mas ek,,,
 mases,,,,explanation,explain,,,,,,,Orostara,mas es,,,
 masiuk,,slang,not commonly used; reserved for extremely important relationships,,care deeply/(colloquially) love,,,,,,,Orostara,mas siuk,,,
 maskamin,,,,,chase/hunt,,,,,,,Orostara,mas kamin,follow a lot (or very follow?),,
-maskap,,,,skill,,,,,,,,Orostara,mas kap,gei nang,,
+maskat,,,,skill,,,,,,,,Orostara,mas kat,,,
 maskom,,slang,,,,more,more,more than/(colloquially) better than,,,,Orostara,mas kom,,,
 masnien,,,,,,old,,,,,,Orostara,mas nien,,,
 masot,,,pair with 'sek',a late future,,late,late,,,,,Orostara,mas ot,,,
@@ -659,7 +659,7 @@ Rayox,,proper,inspired by the Hindi name for Venus शुक्र meaning 'brig
 rayxas,,,,daylight/daytime,,,,,,,,Orostara,ray xas,,,
 rek,,basic,,rule/law/policy/requirement/command/order,must/have to/need to/require to/command/order,lawful/strict,lawfully/strictly,,,,,Spanish,regla,,/ˈreɡla/,Latin
 rekasar,reksar,,,lawyer,,,,,,,,Orostara,rek sar,law person,,
-ren,,basic,,continuation/endurance,bear/stand/endure/last/continue,continuous/perpetual,continuously/perpetually,,,,,Mandarin Chinese,忍受,Rěnshòu,/ʐən²¹⁴⁻²¹ ʂoʊ̯⁵¹/,Proto-Sino
+ren,,basic,,continuation/endurance/maintenance,bear/stand/endure/last/continue/stay/remain/keep/maintain,continuous/perpetual,still/continuously/perpetually,,,,,Mandarin Chinese,忍受,Rěnshòu,/ʐən²¹⁴⁻²¹ ʂoʊ̯⁵¹/,Proto-Sino
 rep,,basic,,discovery/finding,discover/find/reveal/show/point/indicate,,,,,,,Spanish,revelar,,/rebeˈlaɾ/,Latin
 res,,basic,the mechanical device,spring,,,,,,,,Spanish,resorte,,/reˈsoɾte/,Latin
 ret,,basic,,red,,red,,,color,,1,English,red,,/ɹɛd/,Proto-Germanic
@@ -668,7 +668,6 @@ rey,,basic,,class/category/genre/kind/type,,,,,,,,Mandarin Chinese,类,Lèi,/le�
 rik,,basic,,(temporally) past,go away/leave,(temporally) past,away,away from,preposition,oth,,Mandarin Chinese,离开,Líkāi,/li³⁵ kʰaɪ̯⁵⁵/,Proto-Sino
 rikit,,basic,,liquid,melt/condense,,,,,,,Spanish,líquida,,/ˈlikido/,Latin
 rikux,,,,history/story,,historic,,,,,,Orostara,rik kux,Lìshǐ,,
-rim,,basic,,maintenance,stay/remain/keep/maintain,,still,,,,,English,remain,,/ɹɪˈmeɪn/,Latin
 rimin,rikmin/rikamin,,for general times; 'in the last ten minutes'; see 'amin' for discrete times like 'ten minutes ago',past minute,,,,,,,,Orostara,rik min,,,
 rimon,rikmon/rikamon,,for general times; 'in the last ten months'; see 'amon' for discrete times like 'ten months ago',past month,,,,,,,,Orostara,rik mon,,,
 rinien,riknien/rikanien,,for general times; 'in the last ten years'; see 'anien' for discrete times like 'ten years ago',past year,,,,,,,,Orostara,rik nien,,,
@@ -713,7 +712,7 @@ sapar,,basic,,cactus,,,,,plant/nature,,,Arabic,صبار,sabaar,/sˤbaːr/,
 sapes,,basic,,circumference ,,thick,,,measurement,,,Italian,spesso,,/ˈspes.so/,
 sapos,,,,bath,bathe,,,,,,,Orostara,sap hos,,,
 saput,,basic,,evidence/proof,prove,,,,,,,Urdu,ثبوت,sabūt,/sə.buːt̪/,
-sar,,basic,can be used as an honorific suffic when you don't know what to call someone,person/individual,,,,,,,,Korean,사람,saram,[ˈsʰa̠(ː)ɾa̠m],
+sar,,basic,can be used as an honorific suffic when you don't know what to call someone,person/individual/stranger,,,,,,,,Korean,사람,saram,[ˈsʰa̠(ː)ɾa̠m],
 sarat,,basic,,lizard,,,,,animal/nature,,,Marathi,सरडा,Saraḍā,/səɾəɖaː/,
 saratapar,,,,salamander,,,,,animal/nature,,,Orostara,sarat tapar,frog lizard,,
 sarik,,,,child/kid,,cute/childish,,,,,,Orostara,sar ik,,,
@@ -779,7 +778,7 @@ suar,,basic,,pig,,,,,animal/nature,,,Hindi,सूअर,suar,/suː.əɾ/,
 Suaramon,,proper,month of the pig,Thirteen Month/December,,,,,month,,13,Orostara,suar mon,,,
 suk,,basic/slang,,sugar,,sweet/(colloquially) cute,sweetly,,food,,2,English,sugar,,/ˈʃʊɡɚ/,
 sukrut,,,,cake,,,,,food,,,Orostara,suk rut,,,
-sun,,basic,,repetition/pattern/repeat/copy/duplicate,repeat/copy/duplicate,repetitive/repeated,repetitively/again/repeatedly,,,,,Cantonese,重複,cung4 fuk1,/t͡sʰʊŋ²¹ fʊk̚⁵/,
+sun,,basic,,repetition/pattern/repeat/copy/duplicate,re/again/repeat/copy/duplicate,repetitive/repeated,repetitively/repeatedly,,,,,Cantonese,重複,cung4 fuk1,/t͡sʰʊŋ²¹ fʊk̚⁵/,
 sunot,,,in terms of movement; return to here,,return,,,,,,,Orostara,sun ot,,,
 sunrik,,,in terms of movement; return to a place away from here ,,return,,,,,,,Orostara,sun rik,,,
 sup,,basic,,soup/stew,,,,,food,,,English,soup,,/suːp/,
@@ -882,7 +881,7 @@ toytestix,,,named for the number of faces on the object,icosahedron,,icosahedral
 toytix,,,named for the number of faces on the object,cone,,conical,,,shape,,,Orostara,toy tix,,,
 tu,,basic,indicates an indirect object,,,,,to/on/for/from/with,,,,Orostara,?,,,
 tuak,,basic,,medicine/drug/pill,,,, ,,,,Vietnamese,thuốc,,[tʰuək̚˧˦],
-tuakasar,tuaksar,,,doctor,,,,,,,,Orostara,tuak ren,medicine person,,
+tuakasar,tuaksar,,,doctor,,,,,,,,Orostara,tuak sar,medicine person,,
 tuakat,tuakt/tuaktah,,on Earth; see 'tuakrum' for Venus,hospital,,,,,,,,Orostara,tuak tah,medicine building,,
 tuakrum,,,,medbay,,,,,,,,Orostara,tuak rum,,,
 tuan,,basic,,approximation,guess,approximate,approximately/kind of/almost/nearly,,,,,Vietnamese,đoán,,[ʔɗwaːn˧˦],
@@ -997,7 +996,7 @@ xus,,basic,,,cook/boil,,,,food,verb,0,Mandarin Chinese,厨子,Chúzi,/ʈ͡ʂʰu�
 xut,,basic,,subject/theme,,,,about,preposition,oth,,Mandarin Chinese,主题,Zhǔtí,/ʈ͡ʂu²¹⁴⁻²¹ tʰi³⁵/,
 y,,slang,slang; informal,I/me/(temporally) present/currently/now/(spacially) here,,my/mine,,,,,,Orostara,yeh,,,
 yah,,basic,the colloquial meaning is not direct possession. Just influence; under my or our influence,this/(temporally) present/currently/now/(spacially) here,,this/(colloquially) my/our,,,,,,Hindi,यह,yah,/jəɦ/,
-yahak,,,ex. 'Have you done it yet?',,,,already/yet,,,,,Orostara,yah ak,,,
+yak,,,ex. 'Have you done it yet?',,,,already/yet,,,,,Orostara,yah ak,,,
 yahontay,,slang,informal slang; generalized form is 'sarontay' if you want to just say 'jealous',,,jealous of me,,,,,,Orostara,yah on tay,,,
 Yahox,,proper,directly translating to 'this planet' but meaning 'our planet'; used by people on  Earth,Earth,,,,,space,,11,Orostara,yah hox,this planet,,
 yamak,,,,,come here/be here,,here,here,,,,Orostara,yah mak,,,
