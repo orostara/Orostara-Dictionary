@@ -172,11 +172,11 @@ function cShowOnly(type) {
     case "direction":
       string += "Directions";
       break;
-    case "language":
-      string += "Languages";
+    case "material":
+      string += "Materials";
       break;
-    case "country":
-      string += "Countries";
+    case "classification":
+      string += "Classifications";
       break;
     case "continent":
       string += "Continents";
