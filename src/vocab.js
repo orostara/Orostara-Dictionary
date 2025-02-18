@@ -195,7 +195,7 @@ var vocab = [
     "rey",
     "yep",
     "xuey",
-    "yet",
+    "xiy",
     "xop",
     "mapur",
     "muh",
