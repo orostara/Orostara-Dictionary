@@ -47,7 +47,7 @@ asap,,basic,,horse,,,,,animal/nature,,,Farsi,اسب,asb,[ʔæsb̥]
 Asapmon,,proper,month of the horse,Eight Month/July/August,,,,,month,,8,Orostara,asap mon,,
 rixar,,rixsar,,teacher/professor,,,,,,,,Orostara,rix sar,education person,
 asek,aksek/akisek,,for discrete times; 'ten seconds ago'; see 'risek' for general times like 'in the last few seconds',last second,,,,,,,,Orostara,ak sek ,,
-asem,aksem/akisem,,for discrete times; 'ten weeks ago'; see 'risem' for general times like 'in the last few weeks',next week,,,,,,,,Orostara,ak sem,,
+asem,aksem/akisem,,for discrete times; 'ten weeks ago'; see 'risem' for general times like 'in the last few weeks',last week,,,,,,,,Orostara,ak sem,,
 Astarater,,proper,the continent; 'ter' added for clarity,Australia,,,,,continent,,,English,Australia,,/əˈstɹæɪl.jə/
 asur,,basic,,blue,,blue,,,color,,5,Spanish,azul,,/aˈsul/
 asurup,,,,cobalt,,,,,material,,,Orostara,asur rup,blue silver,
@@ -158,7 +158,7 @@ huanin,,basic,,,welcome/accept/admit/approve/allow/let/permit/tolerate/invite  ,
 huax,,basic,,chemical,,chemical,chemically,,,,,Mandarin Chinese,化学,Huàxué,/xu̯ä⁵¹ ɕy̯ɛ³⁵/
 huaxniy,,,,chemistry,,,,,,,,Orostara,huax niy,,
 hues,,basic,,gray,,grey/(colloquially) dismal/dull,,,color,,9,Mandarin Chinese,灰色,huīsè,/xu̯eɪ̯⁵⁵ sɤ⁵¹/
-huk,,basic,,hook,hook/catch,,,,,,,English,hook,,/hʊk/
+huk,,basic,,hook,hook/catch/hang,,,,,,,English,hook,,/hʊk/
 hun,,basic,particle to indicate a dependent clause; also see 'pen',,,,,that/which,,,,Orostara,?,,
 Hunitar,,proper,'tar' added for clarity,Wu Chinese/Wu Chinese,,,,,language,,,Wu Chinese,吴语,hhu-nyy,/ɦu²² n̠ʲy⁴⁴/
 hup,,basic,,area/field/realm/zone,,,,,measurement,,,Vietnamese,khu vực,,[xu˧˧ vɨk̚˧˨ʔ]
@@ -271,8 +271,7 @@ komun,,,indicates a comparative dependent clause,,,,,than,,,,Orostara,kom hun,,
 kon,,basic,,,,,any/at all,,,,,Bangla,কোনো,kono,/kono/
 Konko-Kinxasamur,,proper,'mur' added for clarity,DR Congo/DRC/Democratic Republic of the Congo,,,,,country,,,French,Congo-Kinshasa,,
 kopan,,basic,,stock/share/equity,,,,,economy,,,Vietnamese,Cổ phần,,[ko˧˩ fən˨˩]
-kor,,basic,,wish,want/desire/hope/wish,desireable,,,,,,Telugu,కోరిక,kōrika,koːɾika/
-korak,,basic,,,hang,,,,,,,Spanish,colgar,,/kolˈɡaɾ/
+kor,,basic,,wish,want/desire/hope/wish,desirable,,,,,,Telugu,కోరిక,kōrika,koːɾika/
 Korumpiamur,,proper,'mur' added for clarity,Colombia/Republic of Colombia/Columbia,,,,,country,,,Spanish,Columbia,,/koˈlumbja/
 korur,,,use for apology to say 'I wish I had not done it' or 'I wish I could undo it',regret,I'm sorry/regret/apologize,,,,,,,Orostara,kor ur,,/ˈsɑɹ.i/
 kos,,basic,,bone,,,,,body,,7,Russian,кость,kost',[kosʲtʲ]
@@ -300,7 +299,7 @@ kumix,,,,,damn/curse,,,,fantasy,verb,,Orostara,kum ix,bad will/energy,
 kumtox,,,,disadvantage/detriment,,,,,,,,Orostara,kum tox,,
 kun,,basic,,group/collection/team,collect,,,,classification,,,Japanese,群,gun,/gɯɴ/
 kunap,,basic,,concern,worry,concerned,,,,,,Mandarin Chinese,恐怕,kǒngpà,/kʰʊŋ²¹⁴⁻²¹ pʰä⁵¹/
-kunson,,,,ant/bee/wasp,,,,,animal/nature,,,Orostara,kun son,,
+may,,basic,,ant/bee/wasp,,,,,animal/nature,,,Mandarin Chinese,蚂蚁,mǎyǐ,/mä²¹⁴⁻³⁵ i²¹⁴⁻²¹⁽⁴⁾/
 kup,,basic,as in 'too much',excess,,extra/excessive,too,,,,,Bangla,খুব,Khuba,/kʰub/
 kupak,,,,profit,profit,,,,,,,Orostara,kup pak,excess money,
 kupem,,,'my condolences' type of sorry,,sorry,,,,,,,Orostara,kup em,,
@@ -523,12 +522,12 @@ pakasar,,,,accountant,,,,,,,,Orostara,pak sar,money person,
 pakasis,,,,economy,,economic,,,,,,Orostara,pak sis,,
 Pakmur,,proper,'stan' replaced with 'mur' for clarity,Pakistan/Islamic Republic of Pakistan,,,,,country,,,Punjabi,ਪਾਕਿਸਤਾਨ,Pākisatāna,/ˈpäː.kɪs.t̪äːn/
 suh,,basic,the direction of left (vs right),left,,,left,,direction,adv,8,Mandarin Chinese,左,zuǒ ,/t͡su̯ɔ²¹⁴/
-pamin,,,for discrete times; 'ten minutes later'; see 'omin' for general times like 'in the next few minutes',next minute,,,,,,,,Orostara,pas min,,
-pamon,,,for discrete times; 'ten months later'; see 'omon' for general times like 'in the next few months',next month,,,,,,,,Orostara,pas mon,,
+pamin,pasmin,,for discrete times; 'ten minutes later'; see 'omin' for general times like 'in the next few minutes',next minute,,,,,,,,Orostara,pas min,,
+pamon,pasmon,,for discrete times; 'ten months later'; see 'omon' for general times like 'in the next few months',next month,,,,,,,,Orostara,pas mon,,
 pamur,,,,,,foreign,,,,,,Orostara,pah mur,,
 pan,,basic,,company,accompany,,together,by/beside/with,preposition,oth,,Mandarin Chinese,旁,Páng,/pʰɑŋ³⁵/
 panat,,basic,,sneeze,sneeze,,,,body,,69,Mandarin Chinese,喷嚏,pēntì,/pʰən⁵⁵ tʰi⁵¹/
-panien,,,for discrete times; 'ten years later'; see 'onien' for general times like 'in the next few years',next year,,,,,,,,Orostara,pas nien,,
+panien,pasnien,,for discrete times; 'ten years later'; see 'onien' for general times like 'in the next few years',next year,,,,,,,,Orostara,pas nien,,
 panin,,basic,,reaction/response/answer,react/respond/reply/answer,reactive/responsive,responsively,,,,,Mandarin Chinese,反应,fǎnyìng,fän²¹⁴⁻²¹ iŋ⁵¹/
 Panratar,,proper,'tar' added for clarity,Bangla/Bengali,,,,,language,,,Bangla,বাংলা,Bānlā,/baŋla/
 Panratexmur,,proper,'mur' added for clarity,Bangladesh/People's Republic of Bangladesh,,,,,country,,,Bangla,বাংলাদেশ,Bānlādēśa,/baŋlad̪eʃ/
@@ -543,7 +542,7 @@ Parsakamur,,proper,'mur' added for clarity,Poland/Rzeczpospolita Polska/Republic
 Parsitar,,proper,'tar' added for clarity,Farsi/Persian,,,,,language,,,Farsi,فارسی,fârsi, /fɒːɾsiː/
 pas,,basic,,back/(anatomical) back/butt/(temporally) next time,,back,backwards/backward,(physically) behind/in back of/last/(temporally) after/next,direction/preposition,adv/oth,10,Russian,позади,pozadí,[pəzɐˈdʲi]
 pasek,,,for discrete times; 'ten seconds later'; see 'osek' for general times like 'in the next few seconds',next second,,,,,,,,Orostara,pas sek,,
-pasem,,,for discrete times; 'ten weeks later'; see 'osem' for general times like 'in the next few weeks',last week,,,,,,,,Orostara,pas sem,,
+pasem,,,for discrete times; 'ten weeks later'; see 'osem' for general times like 'in the next few weeks',next week,,,,,,,,Orostara,pas sem,,
 paset,,,specifically bottoms; use 'nixet' for 'underwear' generally,underwear,,,,,,,,Orostara,pas et,,
 pasir,,basic,,ease/simplicity,ease/simplify,easy/simple/basic,easily/simply/only/just,,,,,Spanish,fácil,,/ˈfasil/
 pasirekep,,,,,,delicate/fragile/breakable,,,,,,Orostara,pasir kep,easily damaged,
@@ -554,13 +553,12 @@ pataxot,,,,ankle,,,,,body,,56,Orostara,pat xot,,
 patet,,,,socks/sock,,,,,,,,Orostara,pat et,,
 pax,,basic,,joy/enjoyment/fun/delight,like/enjoy/fond of,happy/fun/enjoyable,happily,,,,,Bangla,পছন্দ,Pachanda,/pɔtɕʰond̪o/
 paxan,,basic,,weight/mass/gram/gramme,weigh,heavy,,,measurement,,,Gujarati,વજન,vajan,/ʋədʒən/
-paxas,,,for discrete times; 'ten hours later'; see 'oxas' for general times like 'in the next few hours',next hour,,,,,,,,Orostara,pas xas,,
+paxas,pasxas,,for discrete times; 'ten hours later'; see 'oxas' for general times like 'in the next few hours',next hour,,,,,,,,Orostara,pas xas,,
 paxit,,basic,,budget,budget,,,,economy,,,English,budget,,/ˈbʌd͡ʒ.ɪt/
 paxpok,,,,smile,smile,,,,,,,Orostara,pax pok,happy mouth,
 pay,,basic,Can be used as an honorific suffic ,baby/infant,,,,,,,,Javanese,bayi,,/baji/
 pay,,slang,informal slang; short form,,,,please,,,,,Orostara,karipay,,
-payney,,,,,,pregnant,,,,,,Orostara,pay ney,,
-Payneyox,,proper,inspired by the matron goddess of Hawai'i/goddess of fertility ,Haumea,,,,,space,,21,Orostara,pay ney hox,,
+Xuxox,,proper,inspired by the matron goddess of Hawai'i/goddess of fertility ,Haumea,,,,,space,,21,Orostara,xux hox,,
 payor,,,,uterus,,,,,body,,42,Orostara,pay or,baby organ,
 peix,,basic,,fish,,,,,animal/nature,,,Portuguese,peixe,,/ˈpe(j).ʃi/
 pen,,basic,marker to indicate what the dependent clause is modifying/acting as; also used to refer to an unspecified situation/idea/concept,such/this/that,,such,,,,,,Orostara,?,,
@@ -721,7 +719,7 @@ sekun,,,marks the time; indicates a dependent clause following,,,,,when,,,,Orost
 sem,,basic,,week,,weekly,,,measurement,,5,Spanish,semana,/seˈmana/,
 sen,,basic,,center/middle/core,core,center/middle,,between/among/amongst,preposition,oth,,Spanish,centro,,/ˈsentɾo/
 senat,,basic,,life/experience,live/experience,alive,lively,,,,,Farsi,زنده,zende,[zen̪.d̪é]
-senatop,,,,birth,birth,,,,,,,Orostara,senat op,life start,
+xux,,basic,,birth,birth,,,,,,,Mandarin Chinese,出生,chūshì,/ʈ͡ʂʰu⁵⁵ ʂʐ̩⁵¹/
 senyur,,,,sun,,,,,space,,1,Orostara,sen yur,center star,
 sep,,basic,,bait/lure,entice/lure/bait/tempt/taunt/bribe,tempting,,,,,,Spanish,cebo,,/ˈsebo/
 set,,basic,,hundred,,100,,,number,,23,Portuguese,centena,,/sẽˈtɛnas/
@@ -1030,3 +1028,5 @@ rupuar,,,,mirror,reflect,reflective,,,,,,Orostara,rup puar,silver glass,
 hakom,hamkom,,usually a prefix or adverb to add an '-est' superlative meaning; best; tallest; fastest,,,superlative,superlative,,,,,Orostara,ham kom,,
 hamaskom,,,usually a prefix or adverb to add an '-est' superlative meaning that need to specify 'most ___' or for extra emphatic 'most ___est'; hottest; most attractive; most bestest,,,most/positive superlative,most/positive superlative,,,,,Orostara,ham mas kom,,
 hamikom,,,usually a prefix or adverb to add an '-est' superlative meaning that need to specify 'least ___'; smallest; weakest; coldest; shortest,,,least/negative superlative,least/negative superlative,,,,,Orostara,ham ik kom,,
+tanpak,,,for things that are buyable; see 'tanpos' for personal theft,theft/shoplifting/robbery,steal/thieve/rob,,,,,,,Orostara,tan pak,,
+tanpos,,,for things that you should have earned or should have been given; see ‘tanpak’ for shoplifting,theft/robbery,steal/thieve/rob,,,,,,,Orostara,tan pos,,
