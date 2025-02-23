@@ -1,4 +1,31 @@
 /* jshint esversion: 8 */
+var langGuide = {
+  "Mandarin Chinese": "普通话 (pǔtōnghuà)",
+  Spanish: "español",
+  Hindi: "हिंदी (hindī)",
+  English: "English",
+  Portuguese: "português",
+  Bangla: "বাংলা (baṅla)",
+  Arabic: "عَرَبِيَّة (ʕarabiyya)",
+  Vietnamese: "tiếng Việt",
+  Farsi: "فارسی (fârsi)",
+  Turkish: "Türkçe",
+  Korean: "한국어 (han'gugeo)",
+  Tamil: "தமிழ் (tamiḻ)",
+  Cantonese: "粤语 (jyt9 jy5)",
+  "Wu Chinese": "吴语 (6wu-gniu6)",
+  Russian: "ру́сский (rússkij)",
+  Telugu: "తెలుగు (telugu)",
+  Urdu: "اردو (urdū)",
+  Marathi: "मराठी (marāṭhī)",
+  Punjabi: "ਪੰਜਾਬੀ (pañjābī)",
+  Japanese: "日本語 (nihongo)",
+  German: "deutsch",
+  Gujarati: "ગુજરાતી (gujrātī)",
+  Javanese: "ꦗꦮ (jawa)",
+  French: "français",
+  Italian: "italiano",
+};
 
 var currLinkNum = 0;
 
@@ -105,11 +132,19 @@ function displayEntry(entry, searchedTerm, only, el) {
         rootLang += "/" + entry.RootLanguage[i];
       }
     }
+    var displayLang = rootLang;
+    if (rootLang in langGuide) {
+      displayLang = langGuide[rootLang];
+    }
     getChildElement(wordDefEl, "etym").innerHTML =
       "from " +
-      displayRootWord(entry.RLWord, entry.RootLanguage) +
+      displayRootWord(
+        entry.RLWord,
+        entry.RLWordPronunciation,
+        entry.RootLanguage,
+      ) +
       " in " +
-      rootLang;
+      displayLang;
   }
 
   // display Notes and Other in the same section right under the word definition
@@ -236,7 +271,7 @@ function processNote(text) {
   return str;
 }
 
-function displayRootWord(word, lang) {
+function displayRootWord(word, pronunc, lang) {
   if (Array.isArray(word)) {
     var temp = word[0];
     for (var i = 1; i < word.length; i++) {
@@ -259,7 +294,7 @@ function displayRootWord(word, lang) {
     //check they're all latin characters
     return "<i>" + word.toLowerCase() + "</i>"; //italicize if yes
   } else {
-    return word.toLowerCase();
+    return word.toLowerCase() + " (" + pronunc.toLowerCase() + ")";
   }
 }
 
