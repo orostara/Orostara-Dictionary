@@ -12,7 +12,7 @@ var langGuide = {
   Turkish: "Türkçe",
   Korean: "한국어 (han'gugeo)",
   Tamil: "தமிழ் (tamiḻ)",
-  Cantonese: "粤语 (jyt9 jy5)",
+  Cantonese: "廣東話 (gwong2 dung1 waa6-2)",
   "Wu Chinese": "吴语 (6wu-gniu6)",
   Russian: "ру́сский (rússkij)",
   Telugu: "తెలుగు (telugu)",
