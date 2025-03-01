@@ -2,7 +2,7 @@
 var endList = ["a", "e", "o", "i", "u"];
 var specialCases = [
   "ni",
-  "mi",
+  "mi", "me","ke",
   "ki",
   "ha",
   "na",
