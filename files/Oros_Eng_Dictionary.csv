@@ -38,14 +38,14 @@ arakosos,,,,rib cage,,,,,body,,26,Orostara,arakos hos,rib container,
 aram,,basic,,comfort,comfort,comfortable,comfortably,,,,,Punjabi,ਆਰਾਮ,Ārāma,/aːɾaːmə/
 aran,,basic,,spider,,,,,animal/nature,,,Spanish,araña,,/aˈɾaɲa/
 Arapiyatar,,proper,'tar' added for clarity,Arabic,,,,,language,,,Arabic,عَرَبِيَّة,ʕarabiyya,/ʕa.ra.bij.ja/
-arat,,basic,,gold,,,,,material,,,Turkish,altın,,/ɑɫ.tɯn/
+xinas,,basic,,gold,,,,,material,,,Mandarin Chinese,金子,jīnzi,/t͡ɕin⁵⁵ d͡z̥z̩²/
 Araten,,proper,day of gold; unclear etymology; might be paired with Saturn and its rings; also it's usually payday,Friday,,,,,week,,5,Orostara,arat ten,,
 Arhentinamur,,proper,'mur' added for clarity,Argentina/Argentine Republic República Argentina,,,,,country,,,Spanish,Argentina,,/aɾxenˈtina/
 armas,,basic,,storage/inventory/supply/reserve/repository,store/save/backup/reserve,,,,economy,,,Spanish,almacén,,[al.maˈsẽn]
 arx,,basic,Mostly used as an honorific suffix,senior level employee,,,,,,,,Farsi,ارشد,aršad,[ʔæɹ.ʃæd̪̥]
 asap,,basic,,horse,,,,,animal/nature,,,Farsi,اسب,asb,[ʔæsb̥]
 Asapmon,,proper,month of the horse,Eight Month/July/August,,,,,month,,8,Orostara,asap mon,,
-rixar,,rixsar,,teacher/professor,,,,,,,,Orostara,rix sar,education person,
+rixar,rixsar,,,teacher/professor,,,,,,,,Orostara,rix sar,education person,
 asek,aksek/akisek,,for discrete times; 'ten seconds ago'; see 'risek' for general times like 'in the last few seconds',last second,,,,,,,,Orostara,ak sek ,,
 asem,aksem/akisem,,for discrete times; 'ten weeks ago'; see 'risem' for general times like 'in the last few weeks',last week,,,,,,,,Orostara,ak sem,,
 Astarater,,proper,the continent; 'ter' added for clarity,Australia,,,,,continent,,,English,Australia,,/əˈstɹæɪl.jə/
@@ -276,10 +276,10 @@ kor,,basic,,wish,want/desire/hope/wish,desirable,,,,,,Telugu,కోరిక,kō
 Korumpiamur,,proper,'mur' added for clarity,Colombia/Republic of Colombia/Columbia,,,,,country,,,Spanish,Columbia,,/koˈlumbja/
 korur,,,use for apology to say 'I wish I had not done it' or 'I wish I could undo it',regret,I'm sorry/regret/apologize,,,,,,,Orostara,kor ur,,/ˈsɑɹ.i/
 kos,,basic,,bone,,,,,body,,7,Russian,кость,kost',[kosʲtʲ]
-kosmos,,basic,,space/universe/cosmos,,cosmic/alien,,,,,,Spanish,cosmos,,/ˈkosmos/
+kosam,,basic,,space/universe/cosmos,,cosmic/alien,,,,,,Spanish,cosmos,,/ˈkosmos/
 Kosten,,proper,day of bone; unclear etymology; might be paired with Mars based on a counterpart to blood; or cuz everyone's bone tired,Wednesday,,,,,week,,3,Orostara,kos ten,,
 kot,,basic,can be used as an honorific suffix; specifically means 'your child'; not the same as underage person; see 'hok' if you need to give an honorific to a child,child/son/daughter/offspring,,,,,,,,Telugu,కొడుకు,Koḍuku,/koɖuku/
-kotik,,basic,,code,encode/encrypt,cryptic,,,,,,Spanish,código,,/ˈkodiɡo/
+kotik,,basic,,code/lock,encode/encrypt/lock,secure/locked/cryptic,,,,,,Spanish,código,,/ˈkodiɡo/
 koy,,basic,,sex/sexual intercourse/coitus,have sex/mate,sexual/hot,sexually,,,,72,Spanish,coito,,/ˈkoito/
 koyor,,,,genital,,,,,body,,34,Orostara,koy or,sex organ,
 koyxam,,,,orgasm,,,,,,,,Orostara,koy xam,,
@@ -895,7 +895,7 @@ urhek,,,,vomit,vomit/throw up,,,,body,,67,Orostara,ur hek,,
 urmem,,,,,forget,forgetful,,,,,,Orostara,ur mem,,
 urnit,,,,,drain,,,,,,,Orostara,ur nit,,
 Urtutar,,proper,'tar' added for clarity,Urdu,,,,,language,,,Urdu,اردو,,/ʊɾ.d̪uː/
-urxamkut,,,,key,unlock,,,,,,,Orostara,ur xamkut,,
+urkotik,,,,key,unlock,,,,,,,Orostara,ur xamkut,,
 us,,basic,the direction of right (vs left),right,,right,right,,direction,adv,7,Marathi,उजवे,Ujavē,/ud͡z.ʋe/
 ut,,basic,,north,,north/northern,north/northerly,,direction,adv,1,Hindi,उत्तर,uttar,/ʊt̪.t̪əɾ/
 Utameter,,proper,the continent; 'ter' added for clarity; 'North' replaced with 'nor',North America,,,,,continent,,,English,North America,,/ˌnɔː(ɹ)θ əˈmɛɹɪkə/
@@ -906,7 +906,6 @@ x,,slang,slang; informal,you/(temporally) then/(spacially) there,,your/yours/the
 xak,,basic,,force/power/authority/newton,force/make/influence/coerce/enforce,forceful/powerful,forcefully/powerfully,,,,,Hindi,शक्ति,shakti,/ʃək.t̪iː/
 xam,,basic,,top/lid/height,rise/raise/lift,high/tall,up,over/above,direction/measurement/preposition,adv/noun/oth,5,Vietnamese,chỏm,,[t͡ɕɔm˧˩]
 xamet,,,,jacket/coat,,,,,,,,Orostara,xam et,,
-xamkut,,basic,,lock,lock,locked,,,,,,Korean,잠그다,jamgeuda,[t͡ɕa̠mɡɯda̠]
 xamsisan,,,time of year,summer,,,,,,,,Orostara,xam sisan,,
 xan,,basic,,movement/motion/exercise,go/move/transport,,,,,,,Hindi,जाना,jaana,/d͡ʒɑː.nɑː/
 xanat,,basic,,depth,drop/fall/dive,deep/profound,,,measurement,,,Mandarin Chinese,深度,Shēndù,/ʂən⁵⁵ tu⁵¹/
@@ -944,7 +943,8 @@ xipak,,basic,,billion,,1000000000,,,number,,26,Korean,십억,sibeok,[ɕʰibʌ̹k
 xipor,,,,tongue,,,,,body,,18,Orostara,xip or,,
 xipun,,,,paragraph,,,,,,,,Orostara,xiy pun,,
 xir,,basic,,white/(colloquially) spotlight/panopticon/Big Brother,,white,,,color,,8,Japanese,白,Shiro,[ɕiɾo̞]
-xis,,basic,,computer/machine/technology/automation,engineer/automate,technological/automated/automatic,technologically/automatically,,,,,Wu Chinese,技術,jji-zeq,/d͡ʑi²² zəʔ⁴⁴/
+xis,,basic,,machine/technology/automation,engineer/automate,technological/automated/automatic,technologically/automatically,,,,,Wu Chinese,技術,jji-zeq,/d͡ʑi²² zəʔ⁴⁴/
+kamap,,basic,,computer/circuit/program,program/compute,computational,,,,,,English,computer,,/kəmˈpjuːtə/
 xit,,basic/swear,also a swear; not very vulgar; akin to saying 'balls',hole/(colloquially) pussy/asshole (anatomical),dig/drill/puncture/stab,,,through,preposition,oth,,Marathi,छिद्र,Chidra,/tɕʰidɾə/
 xok,,basic,,appearance/sight/image/picture,look/see/watch/notice/check/observe,,,,,,,Bangla,চোখ,Cōkha,/tɕokʰ/
 xokor,,,,eye,,,,,body,,12,Orostara,xok or,,
@@ -959,7 +959,7 @@ xu,,,the x sound can be extended and the -u ending is optional in speech; 'shhh'
 inxiniy,,basic,,innovation/creativity/originality/design/ingenuity,innovate/create/design,creative/innovative/original/seminal/ingenious,,,value,,,English,ingenious,,/ɪnˈd͡ʒiːnjəs/
 xuek,,basic,,fruit,,,,,food,,,Mandarin Chinese,水果,Shuǐguǒ,/ʂu̯eɪ̯²¹⁴⁻³⁵ ku̯ɔ²¹⁴⁻²¹⁽⁴⁾/
 xuey,,basic,,tax,,,,,,,,Mandarin Chinese,税,Shuì,/ʂu̯eɪ̯⁵¹/
-xuk,,basic,,sperm,,,,,body,,36,Hindi,शुक्राणु,shukraanu,/ʃʊk.ɾɑː.ɳuː/
+xuk,,,,sperm,,,,,body,,36,Hindi,शुक्राणु,shukraanu,/ʃʊk.ɾɑː.ɳuː/
 xuknit,,,,semen,,,,,body,,64,Orostara,xuk nit,sperm water,
 xukor,,,,testes,,,,,body,,35,Orostara,xuk or,sperm organ,
 xum,,basic,,lip/lips,kiss,,,,body,,16,Urdu,چومنا,cūmnā,t͡ʃuːm.nɑː
@@ -1011,7 +1011,7 @@ yus,,basic,,instrument/tool/equipment,use/play,equipped,,,,,,English,use,,/jus/
 hinat,,basic,,wheat/barely/rye/oat/spelt/grassy grain,,,,,food,,,Arabic,حِنْطَة,ḥinṭa,/ħin.tˤa/
 manyok,,basic,,cassava/yuca/manioc/potato/yam/tuber/tapioca,,,,,food,,,Italian,manioca,,
 mais,,basic,,maize/corn/sorghum/millet/quinoa/amaranth/cluster grain,,,,,food,,,German,mais,,/maɪ̯s/
-katan,,basic,,banana/plantain/breadfruit/jackfruit/durian/starch fruit,,,,,food,,,Javanese,gedhang,,/ɡə.daŋ/
+arat,,basic,,banana/plantain/breadfruit/jackfruit/durian/starch fruit,,,,,food,,,Telugu,అరటి,araṭi,/aɾaʈi/
 pam,,basic,,cotton,,,,,material,,,Persian,پنبه,panbe,[pʰæm.bé]
 xay,,basic,,tea/herb,,,,,food,,,Mandarin Chinese,茶葉,cháyè,/ʈ͡ʂʰä³⁵ jɛ⁵¹/
 kap,,basic,,coffee,,,,,food,,,Turkish,Kahve,,[kɑːˈve]
