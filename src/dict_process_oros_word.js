@@ -2,7 +2,9 @@
 var endList = ["a", "e", "o", "i", "u"];
 var specialCases = [
   "ni",
-  "mi", "me","ke",
+  "mi",
+  "me",
+  "ke",
   "ki",
   "ha",
   "na",
@@ -63,12 +65,7 @@ function orosEntry(searchedWord) {
       document.getElementById("notFoundOros").style.display = "flex";
       return 0;
     } else {
-      displayRhymeEntryArry(
-        entry1[1],
-        entry1[2],
-        searchedWord,
-        getSyllables(searchedWord).length,
-      );
+      displayRhymeEntryArry(entry1, searchedWord);
       return 1;
     }
   } else {
