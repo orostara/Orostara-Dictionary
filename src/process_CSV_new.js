@@ -11,31 +11,62 @@ var properNouns = [];
 //predicted 2070 data
 var idealBreakdownNum = {
   "Mandarin Chinese": 110,
-  Spanish: 72,
-  English: 36,
+  Spanish: 55,
+  English: 41,
+  Portuguese: 35,
   Hindi: 36,
-  Bangla: 21,
-  Portuguese: 34,
-  Russian: 9,
-  Japanese: 7,
-  Cantonese: 10,
-  Vietnamese: 17,
-  Marathi: 8,
-  Telugu: 9,
-  Turkish: 12,
-  "Wu Chinese": 10,
-  Korean: 11,
-  French: 6,
-  Tamil: 11,
-  German: 7,
+  Bangla: 25,
   Arabic: 20,
-  Urdu: 8,
+  Vietnamese: 18,
+  Farsi: 13,
+  Punjabi: 6,
+  Turkish: 12,
+  Korean: 10,
+  Urdu: 10,
+  Tamil: 10,
+  "Wu Chinese": 9, 
+  Cantonese: 9,
+  Japanese: 8,
+  Russian: 8,
+  Telugu: 8,
+  German: 7,
+  Marathi: 8,
+  French: 6,
+  Gujarati: 6,
+  Italian: 5,
   Javanese: 6,
-  Punjabi: 8,
-  Italian: 6,
-  Gujarati: 7,
-  Farsi: 12,
+
+  
+  Hausa: 14,
 };
+//2024
+// var idealBreakdownNum = {
+//   "Mandarin Chinese": 110,
+//   Spanish: 72,
+//   English: 36,
+//   Hindi: 36,
+//   Bangla: 21,
+//   Portuguese: 34,
+//   Russian: 9,
+//   Japanese: 7,
+//   Cantonese: 10,
+//   Vietnamese: 17,
+//   Marathi: 8,
+//   Telugu: 9,
+//   Turkish: 12,
+//   "Wu Chinese": 10,
+//   Korean: 11,
+//   French: 6,
+//   Tamil: 11,
+//   German: 7,
+//   Arabic: 20,
+//   Urdu: 8,
+//   Javanese: 6,
+//   Punjabi: 8,
+//   Italian: 6,
+//   Gujarati: 7,
+//   Farsi: 12,
+// };
 
 var alph = [
   "i",
@@ -130,7 +161,7 @@ function readCSVFile() {
     displayPage();
     //fillTable(); //in full_dict_func.js
     //cfillTable(); //in categories_func.js
-    //langAnalysis();
+    langAnalysis();
   });
 }
 
