@@ -32,7 +32,7 @@ apinis,,,,scene/scenario,,,,,,,,Orostara,apin is,,
 apinsar,,,,actor,,,,,,,,Orostara,apin sar,perform person,
 apint,,,on Earth,theater/theatre,,,,,,,,Orostara,apin tah,,
 Aprikater,,proper,the continent; 'ter' added for clarity,Africa,,,,,continent,,,Swahili,Afrika,,/ɑ.fri.kɑ/
-ar,,basic,,meaning/definition,mean/signify/define,meaningful/significant,meaningfully/significantly,,,,,Telugu,అర్థము,arthamu,/ar.tʰʌmu/
+ar,,basic,,meaning/definition,mean/signify/define,meaningful/significant,meaningfully/significantly,,,,,Bangla,অর্থ,(ortho),/ɔɹt̪ʰo/
 arakos,,,,rib,,,,,body,,25,Orostara,arak kos,curve bone,
 arakosos,,,,rib cage,,,,,body,,26,Orostara,arakos hos,rib container,
 aram,,basic,,comfort,comfort,comfortable,comfortably,,,,,Punjabi,ਆਰਾਮ,Ārāma,/aːɾaːmə/
@@ -632,7 +632,7 @@ rap,,basic,,branch/stick,split,,,,plant/nature,,4,Hausa,rabuwa,,/ɽabuwa/
 ran,,basic,,color/shade/tone/paint,paint,colorful/vivid/saturated,,,color,,0,Hindi,रंग,rang,/ɾəŋɡ/
 raox,raux,basic,,mouse/rodent,,,,,animal/nature,,,Mandarin Chinese,老鼠,Lǎoshǔ,/lɑʊ̯²¹⁴⁻³⁵ ʂu²¹⁴⁻²¹⁽⁴⁾/
 Raoxmon,Rauxmon,proper,month of the mouse,Second Month/January/February,,,,,month,,2,Orostara,raox mon,,
-rap,,basic,,texture,,rough/harsh,,,,,,English,rough,,/ɹʌf/
+tek,,basic,,texture,,rough/harsh,,,,,,English,texture,,/ˈtɛkst͡ʃə(ɹ)/
 ras,,basic,,secret/mystery/cover,hide/cover,,,,,,,Farsi,راز,râz,/ɾɒːz/ 
 Rasiyamur,,proper,'mur' added for clarity,Russia/Russian Federation,,,,,country,,,Russian,Россия,Rossiya,[rɐˈsʲijə]
 rax,,basic,,house/lodge/home/apartment,dwell/reside/live/inhabit,homey,,,,,,English,lodge,,/lɑd͡ʒ/
@@ -648,7 +648,7 @@ ret,,basic,,red,,red,,,color,,1,English,red,,/ɹɛd/
 retikus,,slang,slang; kind of derogatory ,(colloquially) someone from Mars,,,,,,,,Orostara,ret kus,,
 rey,,basic,,class/category/genre/kind/type,,,,,classification,,,Mandarin Chinese,类,Lèi,/leɪ̯⁵¹/
 rik,,basic,,(temporally) past,go away/leave,(temporally) past,away,away from,preposition,oth,,Mandarin Chinese,离开,Líkāi,/li³⁵ kʰaɪ̯⁵⁵/
-rikit,,basic,,liquid,melt/condense,,,,,,,Spanish,líquida,,/ˈlikido/
+rikit,,basic,,liquid,melt/condense,,,,,,,English,liquid,,/ˈlɪkwɪd/
 rikux,,,,history/story,,historic,,,,,,Orostara,rik kux,Lìshǐ,
 rimin,rikmin/rikamin,,for general times; 'in the last ten minutes'; see 'amin' for discrete times like 'ten minutes ago',past minute,,,,,,,,Orostara,rik min,,
 rimon,rikmon/rikamon,,for general times; 'in the last ten months'; see 'amon' for discrete times like 'ten months ago',past month,,,,,,,,Orostara,rik mon,,
@@ -717,7 +717,7 @@ sekaxok,sekxok,,,film/movie,film,,,,,,,Orostara,sek xok,,
 sikitix,siktix,,with a square base; named for the number of faces on the object,pyramid,,,,,shape,,,Orostara,sik tix,,
 sekun,,,marks the time; indicates a dependent clause following,,,,,when,,,,Orostara,sek hun,,
 sem,,basic,,week,,weekly,,,measurement,,5,Spanish,semana,/seˈmana/,
-sen,,basic,,center/middle/core,core,center/middle,,between/among/amongst,preposition,oth,,Spanish,centro,,/ˈsentɾo/
+sen,,basic,,center/middle/core,core,center/middle,,between/among/amongst,preposition,oth,,English,center,,"/ˈsɛn.(t)ɚ/,"
 senat,,basic,,life/experience,live/experience,alive,lively,,,,,Farsi,زنده,zende,[zen̪.d̪é]
 xux,,basic,,birth,birth,,,,,,,Mandarin Chinese,出生,chūshì,/ʈ͡ʂʰu⁵⁵ ʂʐ̩⁵¹/
 senyur,,,,sun,,,,,space,,1,Orostara,sen yur,center star,
@@ -735,7 +735,7 @@ sikat,,basic,,brush,brush,,,,,,,Javanese,sikat,,[ˈsikat̚]
 sikaten,sikten,,also see 'Araten',Friday,,,,,,,,Orostara,sik ten,,
 sikin,,,named for the number of points on the shape,pentagon,,pentagonal,,,shape,,,Orostara,sik hin,,
 sikmon,,,also called 'Tarakmon' on some parts of Earth,May,,,,,,,,Orostara,sik mon,,
-sim,,basic,,appearance/resemblance/reflection,seem/appear/resemble/(symbolic) reflect,such/similar,so/such/similarly,like/as,,,,Spanish,similar,,/simiˈlaɾ/
+sim,,basic,,appearance/resemblance/reflection,seem/appear/resemble/(symbolic) reflect,such/similar,so/such/similarly,like/as,,,,English,similar,,/ˈsɪməlɚ/
 simun,,,indicates a dependent clause following,,,,,like/as,,,,Orostara,sim hun,,
 sin,,basic,,sign/symbol/representation/letter,signal/represent,symbolic,symbolically,,,,,Portuguese,sinal,,/siˈnaw/
 sinsar,,,,representative,,,,,,,,Orostara,sin sar,,
@@ -788,7 +788,7 @@ tanun,,,indicates a dependent clause following,,,,,though/in spite of/despite,,,
 tanxar,,slang,meaner than 'naxar' but kinder than 'orp',idiot/dimwit,,stupid,,,,,,Orostara,tan xar,,
 Tanxonarox,,proper,inspired by the Roman god of the discord ,Eris,,,,,space,,25,Orostara,tan xonar hox,,
 taox,taux,basic,,blade/knife,cut/slice,sharp/keen,,,,,,Mandarin Chinese,刀刃,Dāorèn,/tɑʊ̯⁵⁵ ʐən⁵¹/
-tapar,,basic,,frog,,,,,animal/nature,,,Tamil,தவளை,Tavaḷai,/t̪ɐʋɐɭaɪ̯/
+kuat,,basic,,frog,,,,,animal/nature,,,Hausa,kwaɗo,,/kwaɗo/
 tar,,basic,,speech/language/communication/conversation/dialogue,talk/speak/say/tell/discuss,,,,,,,Portuguese,tratar,,/faˈla(ʁ)/
 tarak,,basic,,dragon,,,,,fantasy,,,Portuguese,dragão,,/dɾaˈɡɐ̃w̃/
 Tarakmon,,proper,month of the dragon,Sixth Month/May/June,,,,,month,,6,Orostara,tarak mon,,
