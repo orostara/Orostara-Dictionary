@@ -53,7 +53,7 @@ var vocab = [
     "pir",
     "num",
     "nor",
-    "nes",
+    "puk",
     "pah",
     "tan",
 
@@ -125,7 +125,7 @@ var vocab = [
     "es",
     "xuek",
     "ar",
-    "pies",
+    "riyap",
 
     "ek",
     "toy",
@@ -187,7 +187,7 @@ var vocab = [
     "xot",
     "hes",
     "mut",
-    "metot",
+    "tapar",
   ], //lesson 4
   [
     "kux",
@@ -383,7 +383,7 @@ var vocab = [
     "sam",
     "kopan",
     "hiy",
-    "kotik",
+    "makur",
     "tus",
     "rom",
     "amis",
@@ -395,7 +395,7 @@ var vocab = [
     "ahip",
     "akat",
     "akran",
-    "amar",
+    "soy",
     "ankur",
     "aram",
     "asap",
