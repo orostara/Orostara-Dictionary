@@ -109,7 +109,6 @@ var vocab = [
     "kun",
     "tay",
     "em",
-    "muk",
     "mat",
     "et",
     "yus",
