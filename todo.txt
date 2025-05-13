@@ -7,3 +7,7 @@ make so dropdown menu disappears after selecting an option or if someone clicks 
 Make rhyming dictionary account for alternate spellings
 
 Stretch Goals:
+
+for flashcards 
+ - do missed ones again before restarting set
+ - indicate when the set turns over
