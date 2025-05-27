@@ -138,7 +138,7 @@ her,,slang,Affectionate honorific suffix that means 'someone I care about',belov
 hes,,basic,,reason/factor,cause,reasonable/rational/sensible,reasonably,because of/through/with/from,preposition,oth,,French,raison,,/ʁɛ.zɔ̃/
 hesis,,,,logic/sense,,logical/rational,,,,,,Orostara,hes sis,,
 hesun,,,indicates a dependent clause ,,,,,because/for/since,,,,Orostara,hes hun,,
-hey,,basic,,,cheat/hack,,,,,,,Mandarin Chinese,黑,hēi,/xeɪ̯⁵⁵/
+hey,,basic,,cheat/hack,cheat/hack,,,,,,,Mandarin Chinese,黑,hēi,/xeɪ̯⁵⁵/
 hihi,,,,,,,,heehee,interjection,oth,,?,,,
 hik,,basic,,hiccup,,,,,body,,71,English,hiccup,,/ˈhɪkʌp/
 hin,,basic,,shape,form,shapely,,,shape,,,Vietnamese,hình dạng,,[hïŋ˨˩ zaːŋ˧˨ʔ]
@@ -146,7 +146,7 @@ Hintar,Hintitar,proper,'tar' added for clarity,Hindi,,,,,language,,,Hindi,हि
 hir,,basic,,shell/case/safety,save/shield/defend/guard/protect,protective/safe,protectively,,,,,German,Hülse,,/ˈhʏlzə/
 hirsarat,,,,turtle ,,,,,animal/nature,,,Orostara,hir sarat,shell lizard,
 hiy,,basic,,rain,rain,,,,nature,,,Wu Chinese,雨,yu,/ɦy²³/
-hon,,basic,,equivalence/equality,equate/balance/neutralize,equal/same/identical/neutral/bland,equally/identically,,,,,Mandarin Chinese,恆等,héngděng,/xɤŋ³⁵ tɤŋ²¹⁴⁻²¹⁽⁴⁾/
+hon,,basic,,equivalence/equality,equal/equate/balance/neutralize,equal/same/identical/neutral/bland,equally/identically,,,,,Mandarin Chinese,恆等,héngděng,/xɤŋ³⁵ tɤŋ²¹⁴⁻²¹⁽⁴⁾/
 honpien,,,,,,parallel,,,,,,Orostara,ex pien,equal line,
 hor,,basic,,hold/hug/embrace/cuddle,hold/embrace,,,,,,,English,hold,,/hoʊld/
 hos,,basic,,container/box/basin/cup/vessel/bottle/trap,contain/catch/capture,,,,,,,Mandarin Chinese,盒子,Hézi,/xɤ³⁵ d͡z̥z̩³/
@@ -155,7 +155,7 @@ hox,,basic,,planet/world,,,,,space,,2,Japanese,星,Hoshi,[ho̞ɕi]
 hoxik,,,,dwarf planet,,,,,space,,7,Orostara,hox ik,little planet,
 hoy,,basic,,diamond/crystal/gem/jewel,,,,,material,,,Spanish,joya,,/ˈxoʝa/
 huah,,basic,,fire,burn,firey,,,,,6,Mandarin Chinese,火,huǒ,/xu̯ɔ²¹⁴/
-huanin,huan,basic,shortened spelling is less formal and respectful; for casual only,,welcome/accept/admit/approve/allow/let/permit/tolerate/invite  ,accepting/welcoming,,,,,,Mandarin Chinese,欢迎,Huānyíng,/xu̯än⁵⁵ iŋ³⁵/
+huanin,huan,basic,shortened spelling is less formal and respectful; for casual only,welcome/acceptance,welcome/accept/admit/approve/allow/let/permit/tolerate/invite  ,accepting/welcoming,,,,,,Mandarin Chinese,欢迎,Huānyíng,/xu̯än⁵⁵ iŋ³⁵/
 huax,,basic,,chemical,,chemical,chemically,,,,,Mandarin Chinese,化学,Huàxué,/xu̯ä⁵¹ ɕy̯ɛ³⁵/
 huaxniy,,,,chemistry,,,,,,,,Orostara,huax niy,,
 hues,,basic,,gray,,grey/(colloquially) dismal/dull,,,color,,9,Mandarin Chinese,灰色,huīsè,/xu̯eɪ̯⁵⁵ sɤ⁵¹/
@@ -184,7 +184,7 @@ im,,basic,usually indicate direction of attraction with 'ax' for positive attrac
 in,,basic,the insect animal,fly,,,,,animal/nature,,,Mandarin Chinese,蠅,yíng,/in⁵⁵/
 Inakmur,,proper,'land' replaced with 'mur' for clarity,England,,,,,country,,,English,England,,/ˈɪŋɡlənd/
 inar,,basic,,pressure/pascal/(colloquially) stress,crush/squeeze,(colloquially) stressful/stressed,,,measurement,,,Mandarin Chinese,应力,Yìnglì,/iŋ⁵¹⁻⁵³ li⁵¹/
-inax,,basic,,fortune/fate/luck/chance,,lucky,,,,,,Mandarin Chinese,运气,Yùnqì,/yn⁵¹ t͡ɕʰi¹/
+inax,,basic,,fortune/fate/luck/chance,randomize,random/lucky,randomly,,,,,Mandarin Chinese,运气,Yùnqì,/yn⁵¹ t͡ɕʰi¹/
 ink,,basic/slang,Commonly used like an honorific suffix for corporations cuz they're treated like people I guess; (colloquially) used like how English uses 'god' in swearing; 'I swear to god' = 'I swear to Inka',company/business/firm/corporation/(colloquially) god,,incorporated/corporate,,,economy,,,English,incorporated,,/ɪŋˈkɔɹpəɹeɪtɪd/
 Inkixtar,Inkarixtar,proper,'tar' added for clarity,English,,,,,language,,,English,english,,/ˈɪŋɡlɪʃ/
 insan,,basic,,human,,,,,animal/nature,,,Hindi,इंसान,insaan,[ɪnˈsa(ː)n]
@@ -239,7 +239,7 @@ kas,,basic,,simulation/VR/virtual reality,simulate,virtual/simulated,,,,,,Korean
 kasetx,,slang/swear,slang swear; can be used as a very vulgar way to call someone a top,phallus/dick/cock/clit/strap,fuck/peg,fucking,,,,,,Portuguese,cacete,,/kaˈse.t͡ʃi/
 kasip,,basic,,projectile,shoot,,,,,,,Arabic,قذيفة,qaḏīfa,/qa.ðiː.fa/
 kasit,,basic,,poem/poetry/verse,,poetic,,,,,,Arabic,قصيدة,qaṣīda,/qa.sˤiː.da/
-kat,,basic,,ability/availability/possibility/potential/(colloquially) value,able/can/might,able/available/capable/possible/feasible,possibly/potentially/maybe,,,,,Arabic,قادر,qādir,/qaː.dir/
+kat,,basic,,ability/availability/possibility/potential/(colloquially) value,can/might/able,able/available/capable/possible/feasible,possibly/potentially/maybe,,,,,Arabic,قادر,qādir,/qaː.dir/
 katan,,basic,,flax/hemp/linen,,,,,material,,,Arabic,كتان,kattān,/kat.taːn/
 kaos,kaus,basic,,arch,curve/bend/flex,flexible,flexibly,,,,,Arabic,قَوْس,qaws,/qaws/
 kax,,slang/swear,can be used as a derogatory honorific suffix or just a swear; less vulgar than 'kant',shit/garbage/(honorific) shithead/dumbass/idiot/dumbfuck/shit for brains,kill/die/kill yourself,useless/stupid/shitty,,,,,,Orostara,kaxar,,
@@ -248,7 +248,7 @@ kaxit,,slang/swear,slang swear,asshole/shithole,,,,,,,,Orostara,kax xit ,,
 kay,,basic,,cow/leather,,,,,animal/nature/material,,,Hindi,गाय,gāy,/ɡɑːj/
 Kaymon,,proper,month of the cow,Third Month/February/March,,,,,month,,3,Orostara,kay mon,,
 kays,,slang/swear,slang swear; only mildly vulgar,(exclamation) damn,damn,damned/stupid,,,,,,Mandarin Chinese,該死,,/kaɪ̯⁵⁵ sz̩²¹⁴⁻²¹⁽⁴⁾/
-kayut,,basic,,account/recording,account/record,accountable,,,economy,,,Turkish,kayıt,,/kaˈjɯt/
+kayut,,basic,,file/data/document/account/recording/record/list/chart,account/record,accountable,,,economy,,,Turkish,kayıt,,/kaˈjɯt/
 Kenamur,,proper,'mur' added for clarity,Kenya/Republic of Kenya,,,,,country,,,Swahili,Kenya,,/kɛ.ɲɑ/
 kep,,basic,,damage/wound/injury,break/damage/hurt/wound/injure/destroy/demolish/rip/tear/harm,broken/damaged/wounded/injured,,,body,,,Portuguese,quebrar,,/keˈbɾa(ʁ)/
 Kepox,,proper,inspired by the Roman god of punishment in the underworld ,Orcus,,,,,space,,18,Orostara,kep hox,,
@@ -309,7 +309,7 @@ kus,,basic/slang,also used as an insult; particularly by Venusians against peopl
 kuset,,,,silk/silk fabric,,,,,,,,Orostara,kus et,,
 kut,,basic,,town/city,,,,,,,,Javanese,ꦏꦸꦛ,kutha,/ku.ʈa/
 kux,,basic,,story/tale/fiction/narrative,narrate/tell tales,fictional,,,,,,Mandarin Chinese,故事,"gùshi,",/ku⁵¹ ʂʐ̩¹/
-kuxkasan,,,,AR/augmented reality,,AR,,,,,,Orostara,kux kasan,some vr,
+punkas,,,,AR/augmented reality,,AR,,,,,,Orostara,pun kas,part vr,
 Kuxratitar,,proper,'tar' added for clarity,Gujarati/Gunjarati,,,,,language,,,Gujarati,ગુજરાતી,Gujarātī,/ɡudʒ(ə)ˈɾɑt̪i/
 ma,,basic,particle to indicate subject of a sentence,,,,,,,,,Orostara,?,,
 mahar,,basic,,cave,,,,,nature,,,Arabic,مغارة,maḡāra,/maɣaːra/
@@ -319,15 +319,15 @@ makat,,basic,,monkey,,,,,animal/nature,,,Marathi,माकड,Mākaḍa,/ma.kə�
 Makatmon,,proper,month of the monkey,Tenth Month/September/October,,,,,month,,10,Orostara,makat mon,,
 makun,,,marks the location; indicates a dependent clause following,,,,,,,,,Orostara,mak hun,,
 mam,,basic,,mammal,,,,,animal/nature,,,Spanish,mamífero,,/maˈmifeɾo/
-man,,basic,,,fill/satisfy,enough/full,enough,,,,,Mandarin Chinese,满,Mǎn,/män²¹⁴/
+man,,basic,,capacity,fill/satisfy/saturate,enough/full,enough,,,,,Mandarin Chinese,满,Mǎn,/män²¹⁴/
 manrak,,basic,,internet/web/world wide web,,,,,,,,Cantonese,網絡,mong5 lok3,/mɔːŋ¹³ lɔːk̚³/
 maox,maux,basic,,risk/bet/dare/wager,bet/gamble/wager/dare,risky,,,economy,,,Mandarin Chinese,冒险,màoxiǎn,/mɑʊ̯⁵¹ ɕi̯ɛn²¹⁴⁻²¹⁽⁴⁾/
 map,,basic,Can be used as an honorific suffic ,parent/mom/dad/father/mother,,,,,,,,Punjabi,ਮਾਪੇ,Māpē,/maːpeː/
-mapan,,basic,,problem/obstacle/issue/trouble/difficulty/challenge,struggle/are challenged/(R) block/(R) challenge,blocked/difficult/hard/tough/challenging/problematic,,,,,,Mandarin Chinese,麻烦,Máfan,/mä³⁵ fän³/
+mapan,,basic,,problem/obstacle/issue/trouble/difficulty/challenge,struggle/are challenged/(R) block/(R) challenge,difficult/hard/tough/challenging/problematic/blocked,,,,,,Mandarin Chinese,麻烦,Máfan,/mä³⁵ fän³/
 mapur,,basic,,flight,fly,,,,,,,Javanese,mabur,,/mabur/
 mapurais,,,,airplane/plane,,,,,,,,Orostara,mapur rais,fly vehicle,
 mapuror,,,,wing,,,,,body,,46,Orostara,mapur or,,
-mar,,basic,'kill' requires a direct object; using 'a ko' is acceptable if you do not want to specify,death,die/kill (DO),dead,,,,,,Gujarati,મરણ,maraṇ,/məɾəɳ/
+mar,,basic,'kill' requires a direct object; using 'a ko' is acceptable if you do not want to specify,death,die/kill (R),dead,,,,,,Gujarati,મરણ,maraṇ,/məɾəɳ/
 Maratitar,,proper,'tar' added for clarity,Marathi,,,,,language,,,Marathi,मराठी,Marāṭhī,/mə.ɾa.ʈʰi/
 Maresiamur,,proper,'mur' added for clarity,Malaysia/Federation of Malaya,,,,,country,,,Malay,Malaysia,,"/məlesia, -ʃa/"
 Maripmur,,proper,'mur' added for clarity,Morocco/Kingdom of Morocco,,,,,country,,,Arabic,المغرب,almaghrib,/ɪl.maɣ.rib/
@@ -405,7 +405,7 @@ mur,,basic,,country/nation/federation,,federal,federally,,,,,Urdu,ملک,mulk,/m
 murik,,,,state/province,,,,,,,,Orostara,mur ik,,
 sok,,basic,,muscle/meat,,muscular,,,body,,3,Hausa,tsoka,,/(t)s’oka/
 Musampikimur,,proper,'mur' added for clarity,Mozambique/Republic of Mozambique,,,,,country,,,Portuguese,Moçambique,,/mu.sɐ̃ˈbi.kɨ/
-mut,,basic,,purpose/mission/objective/task/goal/achievement/victory/success,achieve/reach/win/succeed/beat/conquer,purposeful/successful,purposefully,for/for the purpose of,,,,Mandarin Chinese,目的,Mùdì,/mu⁵¹⁻⁵³ ti⁵¹/
+mut,,basic,,purpose/mission/objective/task/goal/achievement/victory/success,achieve/reach/win/succeed/beat/conquer/complete/finish,purposeful/successful/completed/finished,purposefully,for/for the purpose of,,,,Mandarin Chinese,目的,Mùdì,/mu⁵¹⁻⁵³ ti⁵¹/
 mutakarim,,,,preposition/particle,,,,,,,,Orostara,mut karim,purpose word,
 mutir,,basic,,urine,pee,,,,body,,62,Tamil,மூத்திரம்,mūttiram,/muːt̪ːiɾɐm/
 mutirtup,,,,urethra,,,,,body,,33,Orostara,mutar tup,,
@@ -430,7 +430,6 @@ nasek,,,,,,,never,never,,,,Orostara,nah sek,,
 nasim,,,,difference,differ/vary,different/unique/varying/other,differently/uniquely,,,,,Orostara,nah sim,,
 nasimsis,,,,diversity,diversify,diverse,diversely,,,,,Orostara,nasim sis,,
 tansit,,,,lie/trick/forgery,lie/trick/fake,false/untrue/fake,falsely,,,,,Orostara,tan sit,,
-naxar,,slang,softer insult than 'tanxar',fool,,unintelligent/naive,,,,,,Orostara,nah xar,,
 nayix,,,,oddity,,strange/odd/weird/unexpected/abnormal,strangely/oddly,,,,,Orostara,nah yix,not expected,
 nayoy,,,,,,clumsy/awkward,,,,,,Orostara,nah yoy,,
 Nayxiriamur,,proper,'mur' added for clarity,Nigeria/Federal Republic of Nigeria,,,,,country,,,English,Nigeria,,/naɪˈd͡ʒɪɹ.i.ə/
@@ -475,7 +474,7 @@ niyot,,,on Earth; physical; for Venus see 'nikas',school/university/college,,,,,
 nn,,,,,,,,mm mm/nuh uh,interjection,oth,,Orostara,nah,,
 nom,,basic,,name,name,,,,,,,Portuguese,nome,,/ˈnõ.mi/
 non,,slang,slang; short form; quick way to say something is not belonging to someone or that they don't have something,,,,,not of,,,,Orostara,nahon,,
-nop,,basic,,,,new/novel/fresh,,,,,,Portuguese,novo,,/ˈno.vu/
+nop,,basic,,,update/refresh/renew,new/novel/fresh,,,,,,Portuguese,novo,,/ˈno.vu/
 nor,,basic,,music/song,make music/sing,musical/lyrical,,,,,,Korean,노래,norae,[no̞ɾɛ] 
 norpat,,,,,dance,,,,,,,Orostara,nor pat,chum,
 nortar,,,,,sing,,,,,,,Orostara,nor tar,,
@@ -487,14 +486,14 @@ nun,,basic,,density,,thick/dense/viscous,,,measurement,,,Mandarin Chinese,浓厚
 nur,,basic,,effort/attempt/try,try/attempt,,,,,,,Mandarin Chinese,努力,Nǔlì,/nu²¹⁴⁻²¹ li⁵¹/
 nuy,,basic,,mountain,,,,,nature,,,Vietnamese,núi,,[nuj˧˦]
 o,,basic,indicate an 'is/am/are' phrase; optional and used for clarity,,,,,,,,,Orostara,?,,
-ok,,,,,,okay/ok/O.K.,okay/ok/O.K.,,,,,English,okay,,
+ok,,,,,it’s okay/that’s okay/I’m okay,okay/ok/O.K.,okay/ok/O.K.,,,,,English,okay,,
 okarim,,,,verb,,,,,,,,Orostara,o karim,,
 omin,,,for general times; 'in the next ten minutes'; see 'pamin' for discrete times like 'ten minutes later',future minute,,,,,,,,Orostara,ot min,,
 omon,,,for general times; 'in the next ten months'; see 'pamon' for discrete times like 'ten months later',future month,,,,,,,,Orostara,ot mon,,
 on,,basic,if no noun after then assume common sense 'me' or 'you',possession/property,have/possess/own,possessive/possessed/owned,possessively,'s/from/of (inverse),economy/preposition,,,English,own,,/oʊn/
 onak,,basic,,fungus/mushroom,decompose/rot/decay/fester,,,,nature/food,,,Spanish,hongo,,[ˈõŋ.ɡo]
 onien,,,for general times; 'in the next ten years'; see 'panien' for discrete times like 'ten years later',future year,,,,,,,,Orostara,ot nien,,
-op,,basic,,opening/start/beginning/source/origin,open/turn on/start/begin,open/on,,from (as in from here to there)/since,preposition,oth,,English,open,,/ˈoʊ.pən/
+op,,basic,,start/opening/beginning/source/origin,start/open/turn on/begin,open/on,,from (as in from here to there)/since,preposition,oth,,English,open,,/ˈoʊ.pən/
 opneh,,,,vowel,,,,,,,,Orostara,op neh,,
 oprikat,opriy,basic,shortened spelling is less formal and respectful; for casual only,gratitude,thank/thanks/thank you,,,,value,,,Portuguese,obrigado,,/o.bɾiˈɡa.du/
 oprikatun,opriyun,,short form for 'oprikato kohun'; follow with a subordinate clause; shortened form is less formal and respectful; only use casually,,,,,thank you for ,,,,Orostara,oprikat hun,,
@@ -711,7 +710,7 @@ sax,,basic,,thought/mind/opinion/idea,think/assume/contemplate/imagine/opine,tho
 saxis,,,,concept,conceptualize ,conceptually,,,,,,Orostara,sax sis,,
 saxor,,,,brain,,,,,body,,9,Orostara,sax or,,
 saxun,,slang,slang; short form for 'saxo kohun'; follow with a subordinate clause,,,,,I think that,,,,Orostara,sax hun,,
-sek,,basic,time marker particle/default time unit,time/moment/second,,,,for,measurement,,1,English,second,,/ˈsɛk.(ə)nd/
+sek,,basic,time marker particle/default time unit,time/moment/second,,,,in/for,measurement,,1,English,second,,/ˈsɛk.(ə)nd/
 sekaxok,sekxok,,,film/movie,film,,,,,,,Orostara,sek xok,,
 sikitix,siktix,,with a square base; named for the number of faces on the object,pyramid,,,,,shape,,,Orostara,sik tix,,
 sekun,,,marks the time; indicates a dependent clause following,,,,,when,,,,Orostara,sek hun,,
@@ -760,14 +759,12 @@ sun,,basic,,repetition/pattern/repeat/copy/duplicate,re/again/repeat/copy/duplic
 sunot,,,in terms of movement; return to here,,return,,,,,,,Orostara,sun ot,,
 sunrik,,,in terms of movement; return to a place away from here ,,return,,,,,,,Orostara,sun rik,,
 sup,,basic,,soup/stew,,,,,food,,,English,soup,,/suːp/
-super,,basic,,,randomize,random,randomly,,,,,German,zufällig,,/ˈt͡suːfɛlɪç/
 sur,,basic,,south,,south/southern,south/southerly,,direction,adv,2,Spanish,sur,,/ˈsuɾ/
 Surameter,,proper,the continent; 'ter' added for clarity; 'sud' replaced with 'xanup' for clarity,South America,,,,,continent,,,Spanish,Sudamérica,,/sudaˈmeɾika/
 sus,,basic,,milk,,,,,body/food,,66,Javanese,susu,,[ˈsusu]
 sut,,basic,,speed/velocity,,fast/quick,,,measurement,,,Mandarin Chinese,速度,Sùdù,/su⁵¹⁻⁵³ tu⁵¹/
 Sutanmur,,proper,'mur' added for clarity,Sudan/Republic of the Sudan,,,,,country,,,Arabic,السودان,as-Sūdān,/as.suː.daːn/
 Sutiyamur,,proper,'mur' added for clarity,Saudi Arabia/Kingdom of Saudi Arabia,,,,,country,,,Arabic,السعودية,alsueudia,/as.su.ʕuː.dij.ja/
-sux,,basic,,,stop/cease/prevent,,,,,,,Mandarin Chinese,阻止,Zǔzhǐ,/t͡su²¹⁴⁻³⁵ ʈ͡ʂʐ̩²¹⁴⁻²¹⁽⁴⁾/
 suxer,,basic,,dirt/soil/earth,,dirty,,,nature,,,Portuguese,sujeira,,/suˈʒe(j).ɾɐ/
 tah,,basic,,structure/building,construct/build,,,,,,,Wu Chinese,大厦,da-gho,/da²² ɦo⁴⁴/
 tahat,,basic,,pie/dumpling/tart,,,,,,,,Portuguese,torta,,/ˈtɔʁ.tɐ/
@@ -782,14 +779,12 @@ Tansaniamur,,proper,'mur' added for clarity,Tanzania/United Republic of Tanzania
 tantar,,,,argument,argue/debate/fight,argumentative/fiesty,,,,,,Orostara,tan tar,,
 tantitam,,,,accident ,,,,,,,,Orostara,tan titam,,
 tanun,,,indicates a dependent clause following,,,,,though/in spite of/despite,,,,Orostara,tan hun,,
-tanxar,,slang,meaner than 'naxar' but kinder than 'orp',idiot/dimwit,,stupid,,,,,,Orostara,tan xar,,
 Tanxonarox,,proper,inspired by the Roman god of the discord ,Eris,,,,,space,,25,Orostara,tan xonar hox,,
 taox,taux,basic,,blade/knife,cut/slice,sharp/keen,,,,,,Mandarin Chinese,刀刃,Dāorèn,/tɑʊ̯⁵⁵ ʐən⁵¹/
 kuat,,basic,,frog,,,,,animal/nature,,,Hausa,kwaɗo,,/kwaɗo/
-tar,,basic,,speech/language/communication/conversation/dialogue,talk/speak/say/tell/discuss,,,,,,,Portuguese,tratar,,/faˈla(ʁ)/
+tar,,basic,,language/speech/communication/conversation/dialogue,talk/speak/say/tell/discuss,,,,,,,Portuguese,tratar,,/faˈla(ʁ)/
 tarak,,basic,,dragon,,,,,fantasy,,,Portuguese,dragão,,/dɾaˈɡɐ̃w̃/
 Tarakmon,,proper,month of the dragon,Sixth Month/May/June,,,,,month,,6,Orostara,tarak mon,,
-taran,,basic,,,stand,,,,,,,Bangla,দাঁড়ানো,dãṛanō,/d̪aɹano/
 tarat,,basic,,pain,hurt/feel pain,painful,,,body,,,Punjabi,ਦਰਦ,Darada,/dərədə/
 tas,,basic,,cough,cough,,,,body,,70,Portuguese,tosse,,/ˈtɔ.si/
 tax,,basic,,size,,big/large,,,measurement,,,Mandarin Chinese,大小,Dàxiǎo,/tä⁵¹ ɕi̯ɑʊ̯²¹⁴⁻²¹⁽⁴⁾/
@@ -883,7 +878,7 @@ Ukraymur,Ukrayinmur,proper,'mur' added for clarity,Ukraine,,,,,country,,,Ukraini
 um,,basic,,,,savory/umami,,,food,adj,5,Japanese,旨味,umami,[ɯ̟ᵝma̠mʲi]
 Umsasimur,,proper,'mur' added for clarity,South Africa/Republic of South Africa,,,,,country,,,Xhosa,Mzansi,,[úḿ̩z̥ǎ̤ːⁿtsi]
 upr,,basic,Mostly used as an honorific suffix,manager/director,,,,,,,,Russian,управлять,upravlyat,[ʊprɐˈvlʲætʲ]
-ur,,basic,,,invert/reverse/undo,,,,,,,Punjabi,उल्टा,Ulaṭā,/ʊləʈaː/
+ur,,basic,,inverse,invert/reverse/undo,,,,,,,Punjabi,उल्टा,Ulaṭā,/ʊləʈaː/
 uran,,,,subtraction,subtract/remove,,,,,,,Orostara,ur an,,
 urapeh,,,,,loosen,loose,,,,,,Orostara,ur apeh,,
 urmuk,,,,loss,lose,lost,,,,,,Orostara,ur muk,un get,
@@ -903,16 +898,16 @@ xak,,basic,,force/power/authority/newton,force/make/influence/coerce/enforce,for
 xam,,basic,,top/lid/height,rise/raise/lift,high/tall,up,over/above,direction/measurement/preposition,adv/noun/oth,5,Vietnamese,chỏm,,[t͡ɕɔm˧˩]
 xamet,,,,jacket/coat,,,,,,,,Orostara,xam et,,
 xamsisan,,,time of year,summer,,,,,,,,Orostara,xam sisan,,
-xan,,basic,,movement/motion/exercise,go/move/transport,,,,,,,Hindi,जाना,jaana,/d͡ʒɑː.nɑː/
+xan,,basic,,movement/motion/exercise,move/go/transport,,,,,,,Hindi,जाना,jaana,/d͡ʒɑː.nɑː/
 xanat,,basic,,depth,drop/fall/dive,deep/profound,,,measurement,,,Mandarin Chinese,深度,Shēndù,/ʂən⁵⁵ tu⁵¹/
-xap,,basic,,leg,kick,,,,body,,54,French,jambe,,/ʒɑ̃b/
+xap,,basic,,leg,stand/kick (R),,,,body,,54,French,jambe,,/ʒɑ̃b/
 xapaxot,xapxot,,,knee,,,,,body,,55,Orostara,xap xot,,
 xaper,,,,hip,,,,,body,,53,Orostara,xap per,,
 xapet,,,,pants,,,,,,,,Orostara,xap et,,
 xariet,xariret,,,dress/tunic,,,,,,,,Orostara,xarir et,,
 xarir,,basic,,body,,,,,body,,0,Marathi,शरीर,Śarīra,/ɕə.ɾiɾ/
 xas,,basic,,hour,,,,,measurement,,3,Russian,час,chas,[t͡ɕas]
-xat,,basic,,shutdown/ending/finale,close/shut/turn off/finish/end/complete,closed/off/ended/finished/complete/done/final/last,finally,to (as in from here to there),preposition,oth,,English,shut,,/ʃʌt/
+xat,,basic,,end/shutdown/ending/finale,stop/end/cease/prevent/close/shut/turn off,closed/off/ended/finished/done/final/last,finally,to (as in from here to there),preposition,oth,,English,shut,,/ʃʌt/
 xatneh,,,,consonant,,,,,,,,Orostara,xat neh,,
 Xauatar,,proper,'tar' added for clarity,Javanese,,,,,language,,,Javanese,jawa,,/dʒɔ.wɔ/
 patar,,basic,,petroleum/fuel/gas/petrol/natural gas/gasoline,,,,,,,,English,petroleum,,/pəˈtɹoʊliəm/
@@ -926,7 +921,7 @@ xesar,,,neural formal; use more specific honorifics when possible,you/he/she/the
 xian,,basic,,sauce/paste/syrup,,,,,food,,,Mandarin Chinese,酱,Jiàng,/t͡ɕi̯ɑŋ⁵¹/
 xien,,basic,,salt,,salty,,,food,,1,Mandarin Chinese,食盐,Shíyán,/ʂʐ̩³⁵ jɛn³⁵/
 Xienox,,proper,inspired by the Roman goddess of salt water ,Salacia,,,,,space,,20,Orostara,xiyen ox,,
-xiep,,basic,,,ensure/make sure/check/verify/guarantee,,of course/sure/certainly/surely/definitely,,,,,Mandarin Chinese,确保,Quèbǎo,/t͡ɕʰy̯ɛ⁵¹ pɑʊ̯²¹⁴⁻²¹⁽⁴⁾/
+xiep,,basic,,guarantee,ensure/make sure/check/verify/guarantee,,of course/sure/certainly/surely/definitely,,,,,Mandarin Chinese,确保,Quèbǎo,/t͡ɕʰy̯ɛ⁵¹ pɑʊ̯²¹⁴⁻²¹⁽⁴⁾/
 xik,,basic,,torso/stem,,,,,body,,21,Mandarin Chinese,躯干,Qūgàn,/t͡ɕʰy⁵⁵ kän⁵¹/
 xiket,,,,shirt,,,,,,,,Orostara,xik et,,
 xin,,basic,colloquial euphemism for sex; the same as English when you say 'I did them',action/activity/deed/behavior/(colloquially) sex,do/act/behave/happen/use/(colloquially) have sex with,active/useful,,with/using/through/by,preposition,oth,,Mandarin Chinese,行动,Xíngdòng,/ɕiŋ³⁵ tʊŋ⁵¹/
@@ -945,7 +940,7 @@ xok,,basic,,appearance/sight/image/picture,look/see/watch/notice/check/observe,,
 xokor,,,,eye,,,,,body,,12,Orostara,xok or,,
 xon,,basic,,order/series/list/arrangement/row/sequence,organize/sort/arrange,orderly/organized,,,,,,Mandarin Chinese,整理,zhěnglǐ,/ʈ͡ʂɤŋ²¹⁴⁻³⁵ li²¹⁴⁻²¹⁽⁴⁾/
 xonat,,basic,,degree/level/rank/grade/score/quality/integrity,rank/score/grade,quality,,,classification,,,Mandarin Chinese,程度,chéngdù,/ʈ͡ʂʰɤŋ³⁵ tu⁵¹/
-xop,,basic,,arm,throw/toss/launch,,,,body,,47,Mandarin Chinese,手臂,shǒubì,/ʂoʊ̯²¹⁴⁻²¹ pi⁵¹/
+xop,,basic,,arm,throw (R)/toss (R)/launch (R),,,,body,,47,Mandarin Chinese,手臂,shǒubì,/ʂoʊ̯²¹⁴⁻²¹ pi⁵¹/
 xor,,basic,,temperature/degree/warmth/heat,heat/warm,warm,,,measurement,,,Mandarin Chinese,热力,rèlì,/ʐɤ⁵¹⁻⁵³ li⁵¹/
 xot,,basic,,joint/hinge,join,joined/hinged/jointed,,,body,,,Bangla,যৌথ,Yautha,/dʒoutʰ/
 xotakarim,,,,conjunction,,,,,,,,Orostara,xot karim,join word,
@@ -958,7 +953,7 @@ xuk,,,,sperm,,,,,body,,36,Hindi,शुक्राणु,shukraanu,/ʃʊk.ɾɑː
 xuknit,,,,semen,,,,,body,,64,Orostara,xuk nit,sperm water,
 xukor,,,,testes,,,,,body,,35,Orostara,xuk or,sperm organ,
 xum,,basic,,lip/lips,kiss,,,,body,,16,Urdu,چومنا,cūmnā,t͡ʃuːm.nɑː
-xun,,basic,,,,important/precious/significant,,,,,,Mandarin Chinese,重要,Zhòngyào,/ʈ͡ʂʊŋ⁵¹⁻⁵³ jɑʊ̯⁵¹/
+xun,,basic,,importance/value,,important/precious/significant,,,,,,Mandarin Chinese,重要,Zhòngyào,/ʈ͡ʂʊŋ⁵¹⁻⁵³ jɑʊ̯⁵¹/
 xunan,,basic,,choice/option/decision,choose/pick/decide/select,picky,,,,,,Hindi,चुनना,chunana,/t͡ʃʊn.nɑː/
 Xunkuamur,,proper,'mur' added for clarity,China/People's Republic of China,,,,,country,,,Mandarin Chinese,中国,Zhōngguó,/ʈ͡ʂʊŋ⁵⁵ ku̯ɔ³⁵/
 xup,,basic,,jewelry/ornament/decoration/adornment,decorate,,,,,,,Mandarin Chinese,珠宝,Zhūbǎo,/ʈ͡ʂu⁵⁵ pɑʊ̯²¹⁴⁻²¹⁽⁴⁾/
@@ -984,8 +979,8 @@ yep,,basic,,load/freight/cargo/burden,carry/bring/convey/transport,,,,,,,Spanish
 yer,,basic,,yellow,,yellow,,,color,,3,English,yellow,,/ˈjɛl.oʊ/
 xiy,,basic,see 'rixiy' for 'read' when differentiating 'read' and 'write' is super important; or simply say 'rixo xiya ko',book/article/paper/writing/essay,write/read,written,,,,,,Mandarin Chinese,写,Xiě,/ɕi̯ɛ/
 rixiy,,,little slangy; 'rixo xiya ko' considered more formal,,read,,,,,,,Orostara,rix xiy,,
-yexin,,basic,,mentruation/period,mentruate,,,,,,,Mandarin Chinese,月經,yuèjīng,/ɥɛ⁵¹ t͡ɕiŋ⁵⁵/
-yin,,basic,,marriage,marry,marital,,,,,,Mandarin Chinese,姻,yīn,/in⁵⁵/
+yex,,basic/slang,,menstruation/period,menstruate,(colloquially) cool/sick/metal/awesome/hardcore,,,,,,Mandarin Chinese,月經,yuèjīng,/ɥɛ⁵¹ t͡ɕiŋ⁵⁵/
+yin,,basic/slang,,marriage,marry,marital/(colloquially) weird/strange/crazy/creepy,,,,,,Mandarin Chinese,姻,yīn,/in⁵⁵/
 yinsar,,,,spouse,,,,,,,,Orostara,yin sar,marriage person,
 yis,,basic,,face,,,,,body,,12,Turkish,yüz,,/jyz/
 yiset,,,,mask/cloth mask,,,,,,,,Orostara,yis et,,
@@ -1037,9 +1032,12 @@ tomat,,,,tomato,,,,,food,,,Spanish,tomate,,/toˈmate/
 ast,,slang,slang exclamation of incredulity,seriously/really,seriously/really,,,,,,,Orostara,asat,,
 nitapr,,slang,,,,retro/vintage,,,,,,Orostara,nien tapar,,
 pokus,,,the animal,leech/lamprey,,,,,,,,Orostara,pok kus,,
-Raytar,,proper,,Venusian dialect of Orostara ,,,,,,,,Orostara,rayox tar,,
-Retar,,proper,there are many; this names the language group ,Martian dialects of Orostara,,,,,,,,Orostara,ret tar,,
-Terostar,,proper,there are many; this names the language group ,Earthen dialects of Orostara ,,,,,,,,Orostara,terox orostar,,
+Raytar,Rayorostar,proper,,Venusian dialect of Orostara ,,,,,,,,Orostara,rayox tar,,
+Retar,Retorostar,proper,there are many; this names the language group ,Martian dialects of Orostara,,,,,,,,Orostara,ret tar,,
+Terostar,Terorostar,proper,there are many; this names the language group ,Earthen dialects of Orostara ,,,,,,,,Orostara,terox orostar,,
 Orostarek,,proper,,rules of “proper” Orostara; also refers to the committee of grammarians that oversee the rules and update them,,,,,,,,Orostara,orostar rek,,
 Orostar,,proper,spoken across the entire Oros company on three planets and by many competitors; replaced English as the language of commerce,Oros Language,,,,,,,,Orostara,oros tar,,
 Inkuan,,slang,"slang; little vulgar; shortened from “Inka ma huanino”; literally means something like “co-signed by the company""",,I swear to god,,,,,,,Orostara,ink huanino,,
+xantiy,,basic,,website,,,,,,,,Mandarin Chinese,站點,zhàndiǎn,/ʈ͡ʂän⁵¹ ti̯ɛn²¹⁴⁻²¹⁽⁴⁾/
+xatar,xatr,,with the -u ending,,shut up,,,,,,,Orostara,xat tar,,
+piy,,basic,,wall/fence/barricade/partition,,,,,,,,Mandarin Chinese,壁,bì ,/pi⁵¹/
