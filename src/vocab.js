@@ -255,7 +255,7 @@ var vocab = [
     "mapan",
     "tuak",
     "xunan",
-    "ahat",
+    "tarak",
     "rax",
     "pes",
     "kex",
@@ -485,7 +485,7 @@ var vocab = [
     "suxer",
     "tahat",
     "taox",
-    "tarak",
+  
     "taran",
     "tas",
     "tep",
