@@ -403,7 +403,7 @@ mur,,basic,,country/nation/federation,,federal,federally,,,,,Urdu,ملک,mulk,/m
 murik,,,,state/province,,,,,,,,Orostara,mur ik,,
 sok,,basic,,muscle/meat,,muscular,,,body,,3,Hausa,tsoka,,/(t)s’oka/
 Musampikimur,,proper,'mur' added for clarity,Mozambique/Republic of Mozambique,,,,,country,,,Portuguese,Moçambique,,/mu.sɐ̃ˈbi.kɨ/
-mut,,basic,,purpose/mission/objective/task/goal/achievement/victory/success,achieve/reach/win/succeed/beat/conquer/complete/finish,purposeful/successful/completed/finished,purposefully,for/for the purpose of,,,,Mandarin Chinese,目的,Mùdì,/mu⁵¹⁻⁵³ ti⁵¹/
+mut,,basic,,purpose/mission/objective/task/goal/achievement/victory/success/destination,achieve/reach/win/succeed/beat/conquer/complete/finish,purposeful/successful/completed/finished,purposefully,for/for the purpose of,,,,Mandarin Chinese,目的,Mùdì,/mu⁵¹⁻⁵³ ti⁵¹/
 mutakarim,,,,preposition/particle,,,,,,,,Orostara,mut karim,purpose word,
 mutir,,basic,,urine,pee,,,,body,,62,Tamil,மூத்திரம்,mūttiram,/muːt̪ːiɾɐm/
 mutirtup,,,,urethra,,,,,body,,33,Orostara,mutar tup,,
@@ -543,7 +543,7 @@ pasir,,basic,,ease/simplicity,ease/simplify,easy/simple/basic,easily/simply/only
 pasirekep,,,,,,delicate/fragile/breakable,,,,,,Orostara,pasir kep,easily damaged,
 paskos,,,,spine,,,,,body,,22,Orostara,pas kos,back bone,
 pasten,,,for discrete times; 'ten days later'; see 'oten' for general times like 'in the next few days',tomorrow/next day,,,,,,,,Orostara,pas ten,,
-pat,,basic,,foot/step,step/walk,,,,body,,57,Tamil,பாதம்,pātam,/paːd̪ɐm/
+pat,,basic,,foot,stand/kick (R),,,,body,,57,Tamil,பாதம்,pātam,/paːd̪ɐm/
 pataxot,,,,ankle,,,,,body,,56,Orostara,pat xot,,
 patet,,,,socks/sock,,,,,,,,Orostara,pat et,,
 pax,,basic,,joy/enjoyment/fun/delight,like/enjoy/fond of,happy/fun/enjoyable,happily,,,,,Bangla,পছন্দ,Pachanda,/pɔtɕʰond̪o/
@@ -897,7 +897,7 @@ xamet,,,,jacket/coat,,,,,,,,Orostara,xam et,,
 xamsisan,,,time of year,summer,,,,,,,,Orostara,xam sisan,,
 xan,,basic,,movement/motion/exercise,move/go/transport,,,,,,,Hindi,जाना,jaana,/d͡ʒɑː.nɑː/
 xanat,,basic,,depth,drop/fall/dive,deep/profound,,,measurement,,,Mandarin Chinese,深度,Shēndù,/ʂən⁵⁵ tu⁵¹/
-xap,,basic,,leg,stand/kick (R),,,,body,,54,French,jambe,,/ʒɑ̃b/
+xap,,basic,,leg,walk,,,,body,,54,French,jambe,,/ʒɑ̃b/
 xapaxot,xapxot,,,knee,,,,,body,,55,Orostara,xap xot,,
 xaper,,,,hip,,,,,body,,53,Orostara,xap per,,
 xapet,,,,pants,,,,,,,,Orostara,xap et,,
@@ -930,7 +930,7 @@ xipak,,basic,,billion/1000000000,,billion/1000000000,,,number,,26,Korean,십억,
 xipor,,,,tongue,,,,,body,,18,Orostara,xip or,,
 xipun,,,,paragraph,,,,,,,,Orostara,xiy pun,,
 xir,,basic,,white/(colloquially) spotlight/panopticon/Big Brother,,white,,,color,,8,Japanese,白,Shiro,[ɕiɾo̞]
-xis,,basic,,machine/technology/automation,engineer/automate,technological/automated/automatic,technologically/automatically,,,,,Wu Chinese,技術,jji-zeq,/d͡ʑi²² zəʔ⁴⁴/
+xis,,basic,,machine/technology/robot,engineer,technological/automated/mechanical,technologically/mechanically,,,,,Wu Chinese,技術,jji-zeq,/d͡ʑi²² zəʔ⁴⁴/
 kamap,,basic,,computer/circuit/program,program/compute,computational,,,,,,English,computer,,/kəmˈpjuːtə/
 xit,,basic/swear,also a swear; not very vulgar; akin to saying 'balls',hole/(colloquially) pussy/asshole (anatomical),dig/drill/puncture/stab,,,through,preposition,oth,,Marathi,छिद्र,Chidra,/tɕʰidɾə/
 xok,,basic,,appearance/sight/image/picture,look (R)/see (R)/watch (R)/notice (R)/check (R)/observe (R),,,,,,,Bangla,চোখ,Cōkha,/tɕokʰ/
@@ -1038,3 +1038,8 @@ xantiy,,basic,,website,,,,,,,,Mandarin Chinese,站點,zhàndiǎn,/ʈ͡ʂän⁵¹
 xatar,xatr,,with the -u ending,,shut up,,,,,,,Orostara,xat tar,,
 piy,,basic,,wall/fence/barricade/partition,,,,,,,,Mandarin Chinese,壁,bì ,/pi⁵¹/
 tair,tayr,basic,,avatar/proxy/stand-in/agent/representative/surrogate,represent (animate),,,on behalf of,,,,Mandarin Chinese,代理,dàilǐ,/taɪ̯⁵¹ li²¹⁴⁻²¹⁽⁴⁾/
+payis,,,add before imperative verb to not sound rude; sounds casual/whiney; see ‘karipayis’ for formal,,please (request),,,,,,,Orostara,karipayis,,
+karipayis,,,add before imperative verb to not sound rude; see ‘payis’ for casual,,please (request),,,,,,,Orostara,karipay is,,
+Orosatakata,,,,loyalty to the Oros Company,,,,,,,,Orostara,Oros inka satakato,,
+tip,,basic,,default/reflex,automate,default/automatic,,,,,,English,default,,/dɪˈfɔlt/
+hat,,,no longer a basic word; replaced with ‘xap',,walk?,,,,,,,,,,
