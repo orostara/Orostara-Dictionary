@@ -24,7 +24,7 @@ ankur,,basic,,angle/radian/slope/incline/tilt,angle/lean/tilt,angular,angularly,
 Antarkater,,proper,the continent; 'ter' added for clarity,Antarctica,,,,,continent,,,Russian,Антарктида,Antarktida,[ɐntɐrkˈtʲidə]
 anti,,,,,,,,oops,interjection,oth,,Orostara,tantitam,,
 ap,,basic,,cloud,,cloudy,,,nature,,,Farsi,ابر,abr,[ʔæbɹ]
-apas,,basic,,phase/state/status/circumstance/situation/condition/stage,,,,,classification,,,Hindi,अवस्था,avastha,/ə.ʋəs.t̪ʰɑː/
+apas,,basic,,phase/state/status/circumstance/situation/condition/stage/case/instance,,,,,classification,,,Hindi,अवस्था,avastha,/ə.ʋəs.t̪ʰɑː/
 apeh,,basic,,knot/tie,bind/tie/tighten/sew,tight/bound/taught,tightly,,,,,Portuguese,apertado,,/a.peʁˈta.du/
 Apanmur,Aphanmur,proper,'stan' replaced with 'mur' for clarity,Afghanistan/Islamic Republic of Afghanistan,,,,,country,,,Pashto,افغانستان,afğânestân,/afˈɣɑnˈɪsˈtɑn/
 apinis,,,,scene/scenario,,,,,,,,Orostara,apin is,,
@@ -164,17 +164,17 @@ hup,,basic,,area/field/realm/zone,,,,,measurement,,,Vietnamese,khu vực,,[xu˧�
 hux,,basic,,sheen,shine/glitter/reflect/glint,shiny/glittery/reflective,,,,,,Mandarin Chinese,闪耀,hūshǎn,/xu⁵⁵ ʂän²¹⁴⁻²¹⁽⁴⁾/
 ik,,basic,to a small degree; can be used as a casually affectionate honorific suffix,little/(honorific) little one/baby (affectionate),,a little,barely/just/(negated verb) even,,,,,Japanese,以下,Ika,[ika̠]
 ikarim,,,,adjective,,,,,,,,Orostara,i karim,,
-ikipak,ikpak,,,,,cheap,cheaply,,,,,Orostara,ik pak,little money,
-ikirik,ikrik,,pair with 'sek',a recent past,,recent,recently,,,,,Orostara,ik rik,,
-ikisapes,iksapes,,,,,thin,thinnly,,,,,Orostara,ik sapes,little circumference,
-ikisut,iksut,,,,,slow,slowly,,,,,Orostara,ik sut,little speed,
-ikitax,iktax,,,,,small,,,,,,Orostara,ik tax,a little size,
-ikixak,ikxak,,,,,weak,weakly,,,,,Orostara,ik xak,little strength,
-ikixam,ikxam,,,,,short,,,,,,Orostara,ik xam,,
-ikixor,ikxor,,,,chill,cool/cold,coolly/coldly,,,,,Orostara,ik xor,,
-ikneh,,,,,,quiet/soft,quietly/softly,,,,,Orostara,ik neh,little noise,
-iknien,,,,youth,,young,,,,,,Orostara,ik nien,little age,
-iknir,,,,,,near/close,closely,,,,,Orostara,ik nir,small distance or a little distance,
+ikipak,ikpak/ipak,,,,,cheap,cheaply,,,,,Orostara,ik pak,little money,
+ikirik,ikrik/irik,,pair with 'sek',a recent past,,recent,recently,,,,,Orostara,ik rik,,
+ikisapes,iksapes/isapes,,,,,thin,thinly,,,,,Orostara,ik sapes,little circumference,
+ikisut,iksut/isut,,,,,slow,slowly,,,,,Orostara,ik sut,little speed,
+ikitax,iktax/itax,,,,,small,,,,,,Orostara,ik tax,a little size,
+ikixak,ikxak/ixak,,,,,weak,weakly,,,,,Orostara,ik xak,little strength,
+ikixam,ikxam/ixam,,,,,short,,,,,,Orostara,ik xam,,
+ikixor,ikxor/ixor,,,,chill,cool/cold,coolly/coldly,,,,,Orostara,ik xor,,
+ikneh,ineh,,,,,quiet/soft,quietly/softly,,,,,Orostara,ik neh,little noise,
+iknien,inien,,,youth,,young,,,,,,Orostara,ik nien,little age,
+iknir,inir,,,,,near/close,closely,,,,,Orostara,ik nir,small distance or a little distance,
 ikom,,slang,,,,less,less,less than/(colloquially) worse than,,,,Orostara,ik kom,,
 ikot,,,pair with 'sek',near future,,upcoming,soon,,,,,Orostara,ik ot,,
 ikuan,,,,,,narrow,narrowly,,,,,Orostara,ik kuan,small width or a little width,
@@ -191,7 +191,7 @@ Intonesiamur,,proper,'mur' added for clarity,Indonesia/Republic of Indonesia,,,,
 ritam,,basic,,rhythm/syllable/beat,,rhythmic,,,,,,Italian,ritmo,,/ˈrit.mo/
 ip,,basic,,cord/cable/wire/rope/string/thread,sew/knit/crochet,,,,textile,,,Turkish,ip,,/ip/
 ipit,,,,vine,,,,,plant/nature,,,Orostara,ip pit,rope plant,
-ir,,basic,,alternative,switch/swap/alternate,alternate/other,instead,xor/either/or/else/instead of/(temporally) until,,,,Russian,или,ili,[ˈilʲɪ]
+ir,,basic,,alternative,switch/swap/alternate,alternate/other/different (relative),instead,xor/either/or/else/instead of/(temporally) until,,,,Russian,или,ili,[ˈilʲɪ]
 Irakmur,,proper,'mur' added for clarity,Iraq/Republic of Iraq,,,,,country,,,Arabic,العراق,aleiraq,/al.ʕi.raːq/
 iran,,basic,,advertisement/ad/introduction/abstract,advertise,,,,economy,,,Turkish,ilan,,/iːlan/
 Iranmur,,proper,'mur' added for clarity,Iran,,,,,country,,,Farsi,ایران,irun,[ʔiː.ɹɒ́ːn]
@@ -206,7 +206,7 @@ itiram,itir,basic,shortened spelling is less formal and respectful; connotation 
 Itiyopyamur,,proper,'mur' added for clarity,Ethiopia/Federal Democratic Republic of Ethiopia,,,,,country,,,Amharic,ኢትዮጵያ,ītiyop'iya,/itijopʼja/
 ix,,basic,,energy/will/motivation/drive/joule/fuel/(emo) excited/(tayo) enthusiastic,motivate/drive/energize,motivational/motivating,motivationally/energetically,,measurement,,,Mandarin Chinese,意志,Yìzhì,/i⁵¹⁻⁵³ ʈ͡ʂʐ̩⁵¹/
 ixem,,,,excitement,excite,exciting,excitingly,,,,,Orostara,ix em,,
-ratas,,basic/swear,only slightly vulgar when used as a swear,excriment/(colloquially) shit,poop,,,,body,,63,Hausa,ratsi,, /ɽatsi/
+ratas,,basic/swear,only slightly vulgar when used as a swear,excrement/(colloquially) shit,poop,,,,body,,63,Hausa,ratsi,, /ɽatsi/
 kakatup,,,,rectum,,,,,body,,31,Orostara,kak tup,poop tube,
 kam,,basic,,job/employment/work/task,work/labor/employ/hire,busy/hardworking,,,economy,,,Hindi,काम,kaam,/kɑːm/
 kamar,,basic,,camera,,,,,,,,English,camera,,/ˈkæməɹə/
@@ -639,7 +639,7 @@ res,,basic,the mechanical device,spring,,,,,,,,Spanish,resorte,,/reˈsoɾte/
 ret,,basic,,red,,red,,,color,,1,English,red,,/ɹɛd/
 rakus,,slang,slang; kind of derogatory ,(colloquially) someone from Mars,,,,,,,,Orostara,rak kus,,
 rey,,basic,,class/category/genre/kind/type/department,,,,,classification,,,Mandarin Chinese,类,Lèi,/leɪ̯⁵¹/
-rik,,basic,,(temporally) past,go away/leave,(temporally) past,away,away from,preposition,oth,,Mandarin Chinese,离开,Líkāi,/li³⁵ kʰaɪ̯⁵⁵/
+rik,,basic,,(temporally) past,go away/leave/separate (tu) ,(temporally) past,away,away from,preposition,oth,,Mandarin Chinese,离开,Líkāi,/li³⁵ kʰaɪ̯⁵⁵/
 rikit,,basic,,liquid,melt/condense,,,,,,,English,liquid,,/ˈlɪkwɪd/
 rikux,,,,history/story,,historic,,,,,,Orostara,rik kux,Lìshǐ,
 rimin,rikmin/rikamin,,for general times; 'in the last ten minutes'; see 'amin' for discrete times like 'ten minutes ago',past minute,,,,,,,,Orostara,rik min,,
@@ -775,7 +775,7 @@ Tansaniamur,,proper,'mur' added for clarity,Tanzania/United Republic of Tanzania
 tantar,,,,argument,argue/debate/fight,argumentative/fiesty,,,,,,Orostara,tan tar,,
 tantitam,,,,accident ,,,,,,,,Orostara,tan titam,,
 tanun,,,indicates a dependent clause following,,,,,though/in spite of/despite,,,,Orostara,tan hun,,
-Tanxonarox,,proper,inspired by the Roman god of the discord ,Eris,,,,,space,,25,Orostara,tan xonar hox,,
+Tanamox,,proper,inspired by the Roman god of the discord ,Eris,,,,,space,,25,Orostara,tan am hox,,
 taox,taux,basic,,blade/knife,cut/slice,sharp/keen,,,,,,Mandarin Chinese,刀刃,Dāorèn,/tɑʊ̯⁵⁵ ʐən⁵¹/
 kuat,,basic,,frog,,,,,animal/nature,,,Hausa,kwaɗo,,/kwaɗo/
 tar,,basic,,language/speech/communication/conversation/dialogue,talk/speak/say/tell/discuss,,,,,,,Portuguese,tratar,,/faˈla(ʁ)/
@@ -1039,8 +1039,8 @@ piy,,basic,,wall/fence/barricade/partition,,,,,,,,Mandarin Chinese,壁,bì ,/pi�
 tair,tayr,basic,,avatar/proxy/stand-in/agent/representative/surrogate,represent (animate),,,on behalf of,,,,Mandarin Chinese,代理,dàilǐ,/taɪ̯⁵¹ li²¹⁴⁻²¹⁽⁴⁾/
 payis,,,add before imperative verb to not sound rude; sounds casual/whiney; see ‘karipayis’ for formal,,please (request),,,,,,,Orostara,karipayis,,
 karipayis,,,add before imperative verb to not sound rude; see ‘payis’ for casual,,please (request),,,,,,,Orostara,karipay is,,
-Orosatakata,,,,loyalty to the Oros Company,,,,,,,,Orostara,Oros inka satakato,,
-tip,,basic,,default/reflex,automate,default/automatic/general,,,,,,English,default,,/dɪˈfɔlt/
+Orosatakata,,,,loyalty to the Oros Company,,,,,,,,Orostara,Oros ink satakat,,
+tip,,basic,,default/reflex,automate,default/automatic/general/generic,,,,,,English,default,,/dɪˈfɔlt/
 hat,,,no longer a basic word; replaced with ‘xap',,walk?,,,,,,,Russian,ходить,khodit,[xɐˈdʲitʲ]
 taran,,,no longer a basic word; replaced with ‘pat',,stand?,,,,,,,Bangla,দাঁড়ানো,dãṛanō,/d̪aɹano/
 kamapika,,,,phone/tablet,,,,,,,,Orostara,kamap ik,,
@@ -1057,9 +1057,15 @@ xateka,,,,dinner,,,,,,,,Orostara,xat hek,,
 hakika,,,,snack,,,,,,,,Orostara,hek ik,,
 poxrax,,,,zoo,,,,,,,,Orostara,pox rax,,
 semtam,,,,weekend,,,,,,,,Orostara,sem tam,,
-xonom,,,,honorific,,,,,,,,Orostara,xonat nom,,
+xonom,xonatnom,,,honorific,,,,,,,,Orostara,xonat nom,,
 saram,,,,HR/human resources,,,,,,,,Orostara,sar am,,
 yisar,,,,facer/influencer,,,,,,,,Orostara,yis sar,,
 nisar,,,,learner/(adult) student/researcher,,,,,,,,Orostara,niy sar,,
 masnur,,,'masnuru’ is a good luck phrase that means ‘very try!’ ,,(-u) good luck,,,,,,,Orostara,mas nur,,
 sasis,,,,breathing system/air system/air treatment ,,,,,,,,Orostara,sas sis,,
+tanxon,,,pair with ‘saxa ko’ to mean ‘confuse’; translate to ‘disorder mind’,,disorder/confuse,,,,,,,Orostara,tan xon,,
+mastar,tartar,,,conversation/discussion/dialogue,converse/discuss/chat,talkative/chatty,,,,,,Orostara,mas tar,,
+hantar,,,see ‘netar’ for ‘voiced language’,sign language,sign,,,,,,,Orostara,han tar,,
+netar,,,see ‘hantar’ for ‘sign language’,voiced language,speak,,,,,,,Orostara,neh tar,,
+Orosaxa,,,refers to anything in the Oros company network that the Oros System has access too; also refers to the AI processing done by the Oros System,Oros System/Oros Database/Oros Surveillance Network/Oros Mind,,,,,,,,Orostara,Oros sax,,
+Karas,,,,Blackout,,,,,,,,,,,
