@@ -40,6 +40,61 @@ function checkForVocabDuplicates() {
   }
 }
 
+function checkAllBasicPresent() {
+  //check all the basic words are in vocab
+  var remaining = []; // basicOnly.slice(0,basicOnly.length);
+  for (var i = 0; i < basicOnly.length; i++) {
+    var isInVocab = searchVocab(basicOnly[i]);
+    if (!isInVocab) {
+      remaining.push(basicOnly[i]);
+    }
+  }
+  console.log("Basic Words not Present: " + formatRemaining(remaining));
+
+  //check all vocab words are real basic words
+  remaining = [];
+  for (var i = 0; i < vocab.length; i++) {
+    for (var j = 0; j < vocab[i].length; j++) {
+      var isInBasic = searchBasic(vocab[i][j]);
+      if (!isInBasic) {
+        remaining.push(vocab[i][j]);
+      }
+    }
+  }
+  console.log("Vocab Not Basic: " + formatRemaining(remaining));
+}
+
+function formatRemaining(remaining) {
+  var str = "";
+  var ignore = ["ma", "ko", "tu", "yo"];
+  for (var i = 0; i < remaining.length; i++) {
+    if (!ignore.includes(remaining[i])) {
+      str += "'" + remaining[i] + "', ";
+    }
+  }
+  return str;
+}
+
+function searchBasic(word) {
+  for (var i = 0; i < basicOnly.length; i++) {
+    if (basicOnly[i] == word) {
+      return true;
+    }
+  }
+  return false;
+}
+
+function searchVocab(element) {
+  for (var i = 0; i < vocab.length; i++) {
+    for (var j = 0; j < vocab[i].length; j++) {
+      if (vocab[i][j] == element) {
+        return true;
+      }
+    }
+  }
+  return false;
+}
+
 //remember to turn other array into empty in vocab before running this
 function calcOther() {
   var other = "";
@@ -204,6 +259,7 @@ function toggleActive(id, forceActive) {
 function startFlash() {
   //calcOther();
   //checkForVocabDuplicates();
+  //checkAllBasicPresent();
   resetElements();
   if (
     cleanupTextInput(document.getElementById("startBut").innerHTML) == "start"

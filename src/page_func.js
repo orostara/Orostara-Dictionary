@@ -31,7 +31,7 @@ var needsDict = [
 
 //update if any structural changes are made to the excel file ie adding/moving columns
 //check against the dict stored in local storage to make sure having an old version doesn't break the website
-var dictVersion = "1.009";
+var dictVersion = "1.010";
 
 function load() {
   turnPagesOff();

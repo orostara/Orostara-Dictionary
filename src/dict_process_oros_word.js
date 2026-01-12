@@ -9,6 +9,7 @@ var specialCases = [
   "ha",
   "na",
   "o",
+  "yo",
   "ma",
   "ko",
   "tu",
