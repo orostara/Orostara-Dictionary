@@ -14,10 +14,10 @@ var specialCases = [
   "ko",
   "tu",
   "axa",
-  "anti",
   "xu",
   "haha",
   "hihi",
+"a"
 ];
 
 function orosClick(searchedWord) {
