@@ -24,8 +24,11 @@ function engEntry(searchedWord) {
 }
 
 function searchEnglish(word) {
-  var perfectArr = [];
-  var nearArr = [];
+  var perfBasicArr = [];
+  var perfAddArr = [];
+  var nearBasicArr = [];
+  var nearAddArr = [];
+
   var entryArr = [];
 
   //go through every dictionary entry
@@ -39,11 +42,12 @@ function searchEnglish(word) {
       orosDict[i].Other,
     ];
 
-    var add = false; //word is contained in entry
-    var perfect = false; // word is a perfect match to an entry
+    var perfectIndex = -1; //position of first PERFECT match in an array for ordering
+    var nearIndex = -1; //position of first PARTIAL match in a array for ordering
     for (var j = 0; j < entriesToCheck.length; j++) {
       //check ALL of the entries, even if found, in case there is a perfect match so that can be displayed first
       //search each entry option
+
       var array = entriesToCheck[j];
       if (!Array.isArray(array)) {
         if (array == "") {
@@ -54,41 +58,60 @@ function searchEnglish(word) {
         array = [entriesToCheck[j]];
       }
       var result = arrayHasWord(array, word);
-      add = result[0] || add;
-      perfect = result[1] || perfect;
+      //result[2] CANNOT be -1 if result[0] is true
+
+      if (result[0] && result[1]) {
+        if (perfectIndex == -1 || perfectIndex > result[2]) {
+          perfectIndex = result[2];
+        }
+      } else if (result[0]) {
+        if (nearIndex == -1 || nearIndex > result[2]) {
+          nearIndex = result[2];
+        }
+      }
     }
 
-    if (add) {
-      var isBasic = true;
-      if (Array.isArray(orosDict[i].Type)) {
-        isBasic = [i].indexOf("basic");
-      } else {
-        isBasic = orosDict[i].Type == "basic";
-      }
-      if (isBasic) {
-        //basic word
-        // add to the front of the array
-        if (perfect) {
-          perfectArr.unshift(orosDict[i]);
+    if (nearIndex != -1 || perfectIndex != -1) {
+      //match of some kind found
+      if (orosDict[i].Type.includes("basic")) {
+        if (perfectIndex != -1) {
+          pushInOrder(perfBasicArr, [orosDict[i], perfectIndex]);
         } else {
-          nearArr.unshift(orosDict[i]);
+          pushInOrder(nearBasicArr, [orosDict[i], nearIndex]);
         }
       } else {
-        //constructed word
-        //add to the back of the array
-        if (perfect) {
-          perfectArr.push(orosDict[i]);
+        if (perfectIndex != -1) {
+          pushInOrder(perfAddArr, [orosDict[i], perfectIndex]);
         } else {
-          nearArr.push(orosDict[i]);
+          pushInOrder(nearAddArr, [orosDict[i], nearIndex]);
         }
       }
     }
   }
   //always show the basic words first
-  entryArr = perfectArr.concat(nearArr);
+  entryArr = [];
+  var wantedOrder = [perfBasicArr, nearBasicArr, perfAddArr, nearAddArr];
+  for (var k = 0; k < wantedOrder.length; k++) {
+    for (var m = 0; m < wantedOrder[k].length; m++) {
+      entryArr.push(wantedOrder[k][m][0]);
+    }
+  }
   return entryArr;
 }
 
+function pushInOrder(arr, item) {
+  if (arr.length == 0) {
+    return arr.push(item);
+  }
+  for (var i = 0; i < arr.length; i++) {
+    if (item[1] < arr[i][1]) {
+      arr.splice(i, 0, item);
+      return;
+    }
+  }
+}
+
+//Return [word is found in array, word found is single entry (not part of larger string), index found]
 function arrayHasWord(arr, word1) {
   var word = word1.toLowerCase();
   //search through array
@@ -114,7 +137,7 @@ function arrayHasWord(arr, word1) {
 
     //check for a match
     if (check.toLowerCase() == word) {
-      return [true, true];
+      return [true, true, j];
     }
 
     //if array element is more than one word
@@ -123,9 +146,9 @@ function arrayHasWord(arr, word1) {
       var multiDef = check.split(" ");
       //recurse
       if (arrayHasWord(multiDef, word)[0]) {
-        return [true, false];
+        return [true, false, j]; //not a perfect match
       }
     }
   }
-  return [false, false];
+  return [false, false, -1]; //not found
 }

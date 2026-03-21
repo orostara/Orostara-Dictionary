@@ -17,7 +17,7 @@ var specialCases = [
   "xu",
   "haha",
   "hihi",
-"a"
+  "a",
 ];
 
 function orosClick(searchedWord) {
@@ -28,21 +28,22 @@ function orosClick(searchedWord) {
   } else {
     console.log("invalid currPage in orosClick(): " + currPage);
   }
-  var lastChar = searchedWord.charAt(searchedWord.length - 1);
-
-  //not a special case and DOES end in a vowel
-  if (
-    specialCases.indexOf(searchedWord) == -1 &&
-    endList.indexOf(lastChar) != -1
-  ) {
-    //chop off last letter (vowel)
-    searchedWord = searchedWord.substring(0, searchedWord.length - 1);
-  }
-
-  var found = orosEntry(searchedWord);
+  var word = deEndifyOrosWord(searchedWord);
+  var found = orosEntry(word);
   if (found == 1) {
-    incMemory("Orostara", searchedWord);
+    incMemory("Orostara", word);
   }
+}
+
+function deEndifyOrosWord(word) {
+  var lastChar = word.charAt(word.length - 1);
+  var toReturn = word;
+  //not a special case and DOES end in a vowel
+  if (specialCases.indexOf(word) == -1 && endList.indexOf(lastChar) != -1) {
+    //chop off last letter (vowel)
+    toReturn = word.substring(0, word.length - 1);
+  }
+  return toReturn;
 }
 
 function orosEntry(searchedWord) {
@@ -75,7 +76,8 @@ function orosEntry(searchedWord) {
 }
 
 function searchOros(word1) {
-  var entryArr = [];
+  var basicEntryArr = [];
+  var otherEntryArr = [];
   var word = word1.toLowerCase();
   //check every word in case there's more than one (rare but not unheardof)
   for (var i = 0; i < orosDict.length; i++) {
@@ -90,12 +92,27 @@ function searchOros(word1) {
     }
     for (var j = 0; j < options.length; j++) {
       if (options[j].toLowerCase() == word) {
-        entryArr.push(orosDict[i]);
+        // console.log(options);
+        // console.log(orosDict[i].Type);
+        if (orosDict[i].Type.includes("basic")) {
+          basicEntryArr.push(orosDict[i]);
+        } else {
+          otherEntryArr.push(orosDict[i]);
+        }
         break; //just out of this inner for loop
       }
     }
   }
-  return entryArr;
+  //TODO: come back and make a proper patch to double search all the special cases
+  if (word == "yo") {
+    for (var i = 0; i < orosDict.length; i++) {
+      if (orosDict[i].Orostara == "y") {
+        basicEntryArr.push(orosDict[i]);
+        break;
+      }
+    }
+  }
+  return basicEntryArr.concat(otherEntryArr);
 }
 
 function pushArray(base, add) {

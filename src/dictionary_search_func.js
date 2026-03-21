@@ -142,6 +142,7 @@ function displayEntry(entry, searchedTerm, only, el) {
         entry.RLWord,
         entry.RLWordPronunciation,
         entry.RootLanguage,
+        entry,
       ) +
       " in " +
       displayLang;
@@ -180,7 +181,7 @@ function displayEntry(entry, searchedTerm, only, el) {
     shown = true;
     onCount++;
     var notesEl = getChildElement(childEl, "notes");
-    notesEl.innerHTML = "*" + processNote(entry.Notes);
+    notesEl.innerHTML = "*" + processNote(entry.Notes, entry);
     notesEl.style.display = "block";
   }
 
@@ -246,32 +247,55 @@ function displayEntry(entry, searchedTerm, only, el) {
   }
 }
 
-function processNote(text) {
+function indexOfQuoteMark(str) {
+  var arr = ["'", "‘", "’"]; //i HATE that these are different
+  var indexes = [];
+  for (var i = 0; i < arr.length; i++) {
+    var found = str.indexOf(arr[i]);
+    if (found != -1) {
+      indexes.push(found);
+    }
+  }
+  if (indexes.length == 0) {
+    return -1;
+  }
+  var least = indexes[0];
+  for (var j = 0; j < indexes.length - 1; j++) {
+    if (indexes[j + 1] < indexes[j]) {
+      least = indexes[j + 1];
+    }
+  }
+  return least;
+}
+
+function processNote(text, entry) {
   if (text.length == 0) {
     return "";
   }
   var str = text;
-  var index = str.indexOf("'");
+  var index = indexOfQuoteMark(str);
   if (index != -1) {
     var front = str.substring(0, index);
     var tempBack = str.substring(index + 1);
-    var index2 = tempBack.indexOf("'");
-    var word = tempBack.substring(0, index2);
-    var back = tempBack.substring(index2 + 1);
+    var index2 = indexOfQuoteMark(tempBack);
+    if (index2 != -1) {
+      var word = tempBack.substring(0, index2);
+      var back = tempBack.substring(index2 + 1);
 
-    var link = returnLink(word);
-    if (link == word) {
-      // word was not a Orostara word
-      var temp = str;
-      str = temp.substring(0, index + index2 + 2) + processNote(back);
-    } else {
-      str = front + link + processNote(back);
+      var link = returnLink(word, entry);
+      if (link == word) {
+        // word was not a Orostara word
+        var temp = str;
+        str = temp.substring(0, index + index2 + 2) + processNote(back, entry);
+      } else {
+        str = front + link + processNote(back, entry);
+      }
     }
   }
   return str;
 }
 
-function displayRootWord(word, pronunc, lang) {
+function displayRootWord(word, pronunc, lang, entry) {
   if (Array.isArray(word)) {
     var temp = word[0];
     for (var i = 1; i < word.length; i++) {
@@ -284,7 +308,7 @@ function displayRootWord(word, pronunc, lang) {
     var arr = word1.split(" ");
     var str = "";
     for (var i = 0; i < arr.length; i++) {
-      str += returnLink(arr[i]);
+      str += returnLink(arr[i], entry);
       if (i < arr.length - 1) {
         str += " and ";
       }
@@ -300,7 +324,7 @@ function displayRootWord(word, pronunc, lang) {
 
 function gotoLinkWord(num) {
   var word = document.getElementById(num).innerHTML;
-  gotoWord(word);
+  gotoWord(deEndifyOrosWord(word));
 }
 
 function gotoWord(word) {
@@ -319,9 +343,17 @@ function gotoWord(word) {
   incMemory("Orostara", word);
 }
 
-function returnLink(word) {
+function returnLink(rawWord, entry) {
   if (currPage == "rhymes") {
-    return word;
+    return rawWord;
+  }
+  var word = deEndifyOrosWord(rawWord);
+  var start = [entry.Orostara];
+  var options = start.concat(entry.AltSpellings);
+  for (var i = 0; i < options.length; i++) {
+    if (word == options[i]) {
+      return rawWord;
+    }
   }
   if (searchOros(word).length != 0) {
     var str =
@@ -330,14 +362,14 @@ function returnLink(word) {
       "' onclick='gotoLinkWord(" +
       currLinkNum +
       ")'>" +
-      word +
+      rawWord +
       "</span></u>";
     currLinkNum++;
     return str;
-  } else if (word == "" || word == "N,A") {
+  } else if (rawWord == "" || rawWord == "N,A") {
     return "?";
   } else {
-    return word;
+    return rawWord;
   }
 }
 
