@@ -287,6 +287,13 @@ var vocab = [
     "ay",
     "uh",
     "eh",
+    
+    "xarot",
+    "xih",
+    "tip",
+    "xantiy",
+    "piy",
+    "tair",
   ], //lesson 6
   [
     "ney",
@@ -546,9 +553,5 @@ var vocab = [
     "tarup",
     "xuan",
     "xantiy",
-    "piy",
-    "tair",
-    "tip",
-    "xih",
   ],
 ];
