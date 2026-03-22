@@ -324,7 +324,8 @@ function displayRootWord(word, pronunc, lang, entry) {
 
 function gotoLinkWord(num) {
   var word = document.getElementById(num).innerHTML;
-  gotoWord(deEndifyOrosWord(word));
+  var possibilites = deEndifyOrosWord(word);
+  gotoWord(possibilites[possibilites.length - 1]); //normal if normal, special case if special case
 }
 
 function gotoWord(word) {
@@ -347,7 +348,8 @@ function returnLink(rawWord, entry) {
   if (currPage == "rhymes") {
     return rawWord;
   }
-  var word = deEndifyOrosWord(rawWord);
+  var temp = deEndifyOrosWord(rawWord);
+  var word = temp[temp.length - 1];
   var start = [entry.Orostara];
   var options = start.concat(entry.AltSpellings);
   for (var i = 0; i < options.length; i++) {

@@ -28,33 +28,44 @@ function orosClick(searchedWord) {
   } else {
     console.log("invalid currPage in orosClick(): " + currPage);
   }
-  var word = deEndifyOrosWord(searchedWord);
-  var found = orosEntry(word);
+  var word = deEndifyOrosWord(searchedWord)[0];
+  var found = orosEntry(word, searchedWord);
   if (found == 1) {
     incMemory("Orostara", word);
   }
 }
 
+// return length can be 1 or 2
+// first entry is always word (minus ending if applicable)
+// second entry is word w no modifications if its a special case
 function deEndifyOrosWord(word) {
   var lastChar = word.charAt(word.length - 1);
-  var toReturn = word;
+  var toReturn = [word];
   //not a special case and DOES end in a vowel
-  if (specialCases.indexOf(word) == -1 && endList.indexOf(lastChar) != -1) {
+  if (endList.indexOf(lastChar) != -1) {
     //chop off last letter (vowel)
-    toReturn = word.substring(0, word.length - 1);
+    toReturn = [word.substring(0, word.length - 1)];
+  }
+  if (specialCases.indexOf(word) != -1 && word != toReturn[0]) {
+    toReturn.push(word);
   }
   return toReturn;
 }
 
-function orosEntry(searchedWord) {
+function orosEntry(word, searchedWord) {
   var entry1;
   if (currPage == "translator") {
-    entry1 = searchOros(searchedWord);
+    entry1 = searchOros(word);
+    if (specialCases.indexOf(searchedWord) != -1) {
+      var special = searchOros(searchedWord);
+      var temp = special.concat(entry1);
+      entry1 = temp;
+    }
     if (entry1.length == 0) {
       document.getElementById("notFoundOros").style.display = "flex";
       return 0;
     } else {
-      displayEntryArry(entry1, searchedWord);
+      displayEntryArry(entry1, word);
       if (entry1.length != 0) {
         return 1;
       } else {
@@ -62,12 +73,12 @@ function orosEntry(searchedWord) {
       }
     }
   } else if (currPage == "rhymes") {
-    entry1 = rhymeOros(searchedWord);
+    entry1 = rhymeOros(word);
     if (entry1.length == 0) {
       document.getElementById("notFoundOros").style.display = "flex";
       return 0;
     } else {
-      displayRhymeEntryArry(entry1, searchedWord);
+      displayRhymeEntryArry(entry1, word);
       return 1;
     }
   } else {
@@ -100,15 +111,6 @@ function searchOros(word1) {
           otherEntryArr.push(orosDict[i]);
         }
         break; //just out of this inner for loop
-      }
-    }
-  }
-  //TODO: come back and make a proper patch to double search all the special cases
-  if (word == "yo") {
-    for (var i = 0; i < orosDict.length; i++) {
-      if (orosDict[i].Orostara == "y") {
-        basicEntryArr.push(orosDict[i]);
-        break;
       }
     }
   }
