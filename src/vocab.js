@@ -287,7 +287,7 @@ var vocab = [
     "ay",
     "uh",
     "eh",
-    
+
     "xarot",
     "xih",
     "tip",
@@ -303,7 +303,7 @@ var vocab = [
     "satan",
     "rep",
 
-    "akran",
+    "manyok",
     "pit",
     "pat",
     "xik",
@@ -380,6 +380,8 @@ var vocab = [
     "suxer",
     "nun",
     "rok",
+
+    "a",
   ], //lesson 8
   [
     "xis",
@@ -542,7 +544,6 @@ var vocab = [
     "yoy",
     "yun",
     "hinat",
-    "manyok",
     "mais",
     "arat",
     "pam",
@@ -552,6 +553,12 @@ var vocab = [
     "taos",
     "tarup",
     "xuan",
-    "xantiy",
+    "ratas",
+    "karis",
+    "kus",
+    "pakan",
+    "xit",
+    "yex",
+    "yin",
   ],
 ];

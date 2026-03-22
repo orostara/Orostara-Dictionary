@@ -50,13 +50,11 @@ function checkAllBasicPresent() {
     }
   }
   console.log("Basic Words not Present: " + formatRemaining(remaining));
-
   //check all vocab words are real basic words
   remaining = [];
   for (var i = 0; i < vocab.length; i++) {
     for (var j = 0; j < vocab[i].length; j++) {
-      var isInBasic = searchBasic(vocab[i][j]);
-      if (!isInBasic) {
+      if (!basicOnly.includes(vocab[i][j])) {
         remaining.push(vocab[i][j]);
       }
     }
